@@ -45,13 +45,7 @@ def get_station_near_route(route_geometry,threshold_miles=10, sample_rate=100):
         station_points = [(station.latitude, station.longitude) for station in all_stations]
 
         station_tree = cKDTree(station_points)
-
-        # sampled_points=route_geometry[::sample_rate]
-
-        # candidate_stations = []
-
-        # added_station_ids = set()
-# 
+ 
         sampled_points=route_geometry[::sample_rate]
 
         if route_geometry and route_geometry[-1] not in sampled_points:
@@ -70,23 +64,6 @@ def get_station_near_route(route_geometry,threshold_miles=10, sample_rate=100):
             matched_station_indices.update(nearby_indices)
 
         candidate_stations=[all_stations[i] for i in matched_station_indices]
-
-        # for station in all_stations:
-            
-        #     for index, points in enumerate(sampled_points):
-                
-        #         point_lon=points[0]
-        #         point_lat=points[1]
-
-        #         distance=haversine_distance(point_lat, point_lon, station.latitude, station.longitude)
-               
-        #         if distance <= threshold_miles:
-                  
-        #             if station.station_id not in added_station_ids:
-        #                 candidate_stations.append(station)
-        #                 added_station_ids.add(station.station_id)
-        #             break
-
           
         return candidate_stations
 
@@ -176,11 +153,6 @@ def attach_distance_from_start( candidate_stations, route_geometry,sample_rate=2
 
         tree=cKDTree(route_points_for_tree)
 
-
-
-
-        # cumulative_points = calculate_cumulative_distances(route_geometry)
-
         stations_with_progress = []
 
         for station in candidate_stations:
@@ -200,36 +172,6 @@ def attach_distance_from_start( candidate_stations, route_geometry,sample_rate=2
             "price_per_gallon": station.price_per_gallon,
             "distance_from_start_miles": round(distance_from_start_miles, 2)
             })
-            
-            # min_distance_to_route = float("inf")
-            # best_distance_from_start = None
-
-            # for item in cumulative_points:
-            #     point = item["point"]
-            #     point_lon = point[0]
-            #     point_lat = point[1]
-
-            #     distance_to_station = haversine_distance(
-            #         point_lat,
-            #         point_lon,
-            #         station.latitude,
-            #         station.longitude
-            #     )
-
-            #     if distance_to_station < min_distance_to_route:
-            #         min_distance_to_route = distance_to_station
-            #         best_distance_from_start = item["distance_from_start"]
-
-            # stations_with_progress.append({
-            #     "station_id": station.station_id,
-            #     "name": station.name,
-            #     "city": station.city,
-            #     "state": station.state,
-            #     "latitude": station.latitude,
-            #     "longitude": station.longitude,
-            #     "price_per_gallon": station.price_per_gallon,
-            #     "distance_from_start_miles": round(best_distance_from_start, 2) if best_distance_from_start is not None else None
-            # })
 
         stations_with_progress.sort(key=lambda x: x["distance_from_start_miles"] or 0)
 

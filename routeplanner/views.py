@@ -5,7 +5,7 @@ from rest_framework import status
 from .serializers import RouteInputSerializer,FuelStationSerializer,OptimizedFuelPlanRequestSerializer
 from .services.routing_service import get_coordinates, get_distance_and_duration_and_route_geometry
 from .services.fuel_optimizer import FuelOptimizer
-from .services.fuel_station import get_station_near_route,calculate_cumulative_distances,attach_distance_from_start,prefilter_candidate_stations
+from .services.fuel_station import get_station_near_route,attach_distance_from_start,prefilter_candidate_stations
 from .models import FuelStation
 # Create your views here.
 

@@ -1,6 +1,4 @@
 import heapq
-from turtle import distance
-from typing import List, Dict, Any, Tuple
 import math
 
 
@@ -83,7 +81,6 @@ class FuelOptimizer:
 
             current_node=nodes[current_node_index]
 
-            #Action1: Buy one fuel unit at current node
             can_buy_fuel=(current_node.get('price_per_gallon') is not None and (current_fuel_units < capacity_units) and not current_node.get("is_destination",False))
 
             if can_buy_fuel:
@@ -108,7 +105,7 @@ class FuelOptimizer:
                     )
                     heapq.heappush(priority_queue,(new_cost,next_state))
 
-            #Action2 : drive to any reachable future node
+            
             for next_node_index in range(current_node_index+1,len(nodes)):
                 next_node=nodes[next_node_index]
 
@@ -189,8 +186,6 @@ class FuelOptimizer:
         for station in station_with_progress:
             distance=station.get("distance_from_start_miles")
 
-            # if distance is None or distance <=0 or distance > route_distance_miles:
-            #     continue
 
             if distance is None:
                 continue
@@ -264,59 +259,6 @@ class FuelOptimizer:
 
         actions_reversed.reverse()
         return actions_reversed
-
-    # def _build_fuel_stops_from_actions(self, actions, nodes,fuel_step_miles,mpg):
-    #     """
-    #         Aggregate all buy actions by station.
-    #     """
-    #     purchases={}
-    #     for action in actions:
-    #         if action["type"] !="buy":
-    #             continue
-
-    #         node_index=action["node_index"]
-    #         node=nodes[node_index]
-
-    #         if node["node_type"] != "fuel_station":
-    #             continue
-
-    #         to_state = action["to_state"]
-    #         fuel_units_remaining = to_state[1]
-
-    #         fuel_remaining_gallons = fuel_units_remaining * (fuel_step_miles / mpg)
-
-    #         if node_index not in purchases:
-    #             purchases[node_index]={
-    #                 "station_id": node["station_id"],
-    #                     "name": node["name"],
-    #                     "city": node["city"],
-    #                     "state": node["state"],
-    #                     "latitude": node["latitude"],
-    #                     "longitude": node["longitude"],
-    #                     "distance_from_start_miles": node["distance_from_start_miles"],
-    #                     "fuel_remainining_gallons_at_stop": fuel_remaining_gallons,
-    #                     "price_per_gallon": node["price_per_gallon"],
-    #                     "gallons_purchased": 0,
-    #                     "cost": 0
-    #             }
-
-    #         purchases[node_index]["gallons_purchased"] += action["gallons"]
-    #         purchases[node_index]["cost"] += action["cost"]
-
-
-    #     fuel_stops=list(purchases.values())
-
-    #     fuel_stops.sort(key=lambda x: x['distance_from_start_miles'])
-
-    #     for stop in fuel_stops:
-    #             stop["distance_from_start_miles"] = round(stop["distance_from_start_miles"], 2)
-    #             stop["fuel_remainining_gallons_at_stop"] = round(stop["fuel_remainining_gallons_at_stop"], 2)
-    #             stop["price_per_gallon"] = round(stop["price_per_gallon"], 2)
-    #             stop["gallons_purchased"] = round(stop["gallons_purchased"], 2)
-    #             stop["cost"] = round(stop["cost"], 2)
-
-
-    #     return fuel_stops
 
     def _build_fuel_stops_from_actions(self, actions, nodes, fuel_step_miles, mpg):
         purchases = {}

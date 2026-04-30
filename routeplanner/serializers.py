@@ -17,6 +17,8 @@ class OptimizedFuelPlanRequestSerializer(serializers.Serializer):
     start=serializers.CharField()
     end=serializers.CharField()
 
+    safety_buffer_gallons=serializers.FloatField(required=False, default=0, min_value=0)
+
     max_range_miles=serializers.FloatField(required=False, default=500, min_value=1)
 
     mpg=serializers.FloatField(required=False, default=10, min_value=1)

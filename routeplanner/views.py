@@ -15,7 +15,7 @@ from .services.fuel_optimizer import FuelOptimizer
 from .services.fuel_station import (
     get_station_near_route,
     calculate_cumulative_distances,
-    attach_distance_from_start,
+    attach_distance_from_start,prefilter_candidate_stations,
 )
 from .utils.timing import timeit
 from .models import FuelStation
@@ -154,7 +154,7 @@ def optimize_fuel_plan(request):
 
     safety_buffer_gallons = data["safety_buffer_gallons"]
 
-    fuel_optimizer = FuelOptimizer()
+    fuel_optimizer=FuelOptimizer()
 
     try:
         route_data = get_distance_and_duration_and_route_geometry(start, end)
@@ -179,9 +179,9 @@ def optimize_fuel_plan(request):
             route_geometry=route_geometry, threshold_miles=10, sample_rate=100
         )
 
-        station_with_progress = attach_distance_from_start(
-            candidate_stations, route_geometry
-        )
+        station_with_progress=attach_distance_from_start(candidate_stations,route_geometry)
+
+        station_with_progress=prefilter_candidate_stations(station_with_progress)
 
         optimized_plan = fuel_optimizer.optimizing_fuel_plan(
             station_with_progress=station_with_progress,
@@ -190,7 +190,8 @@ def optimize_fuel_plan(request):
             mpg=mpg,
             start_fuel_percent=start_fuel_percent,
             fuel_step_miles=fuel_step_miles,
-            start_price_per_gallon=start_price_per_gallon
+            start_price_per_gallon=start_price_per_gallon,
+            safety_buffer_gallons=safety_buffer_gallons,
         )
 
         total_gallons_consumed = route_distance_miles / mpg
@@ -205,6 +206,7 @@ def optimize_fuel_plan(request):
                 "max_range_miles": max_range_miles,
                 "mpg": mpg,
                 "tank_capacity_gallons": optimized_plan["tank_capacity_gallons"],
+                "safety_buffer_gallons": safety_buffer_gallons,
                 "start_fuel_percent": start_fuel_percent,
             },
             "candidate_station_count": len(station_with_progress),

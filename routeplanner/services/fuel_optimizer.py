@@ -62,11 +62,11 @@ class FuelOptimizer:
 
         if not nodes:
             raise ValueError("No route Nodes found for optimization")
-
+        
         if safety_buffer_gallons >= tank_capacity_gallons:
             raise ValueError("Safety buffer gallons must be less than tank capacity.")
-
-        destination_index = len(nodes) - 1
+        
+        destination_index=len(nodes)-1
 
         start_state = (0, start_fuel_units)
 
@@ -141,8 +141,8 @@ class FuelOptimizer:
                 needed_units = math.ceil(distance_to_next / fuel_step_miles)
 
                 if current_fuel_units - needed_units >= reserve_units:
-                    next_fuel_units = current_fuel_units - needed_units
-                    next_state = (next_node_index, next_fuel_units)
+                    next_fuel_units=current_fuel_units - needed_units
+                    next_state= (next_node_index,next_fuel_units)
 
                     new_cost = current_cost
 

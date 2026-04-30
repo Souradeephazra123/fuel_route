@@ -140,7 +140,7 @@ class FuelOptimizer:
                         heapq.heappush(priority_queue,(new_cost,next_state))
             
         if final_state is None:
-                raise ValueError("No valid fuel plan found for the given route and parameters. Route may have gaps larger than vehicle range.")
+                raise ValueError(" Error: Cannot complete the route. The distance between available fuel stations in the database exceeds the vehicle's effective range of 450.0 miles")
             
         actions= self._reconstruct_actions(previous,start_state,final_state)
 

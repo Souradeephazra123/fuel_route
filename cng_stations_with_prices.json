@@ -1,0 +1,6608 @@
+[
+  {
+    "station_id": 73,
+    "name": "Arkansas Oklahoma Gas Corp",
+    "city": "Fort Smith",
+    "state": "AR",
+    "latitude": 35.362213,
+    "longitude": -94.375338,
+    "price_per_gallon": 3.68
+  },
+  {
+    "station_id": 81,
+    "name": "Clean Energy - Logan International Airport",
+    "city": "East Boston",
+    "state": "MA",
+    "latitude": 42.37470554648246,
+    "longitude": -71.02654860574343,
+    "price_per_gallon": 3.12
+  },
+  {
+    "station_id": 84,
+    "name": "Clean Energy - Everett - National Grid",
+    "city": "Everett",
+    "state": "MA",
+    "latitude": 42.393167,
+    "longitude": -71.064352,
+    "price_per_gallon": 3.68
+  },
+  {
+    "station_id": 108,
+    "name": "Clean Energy - Greenpoint - National Grid",
+    "city": "Brooklyn",
+    "state": "NY",
+    "latitude": 40.718037,
+    "longitude": -73.932309,
+    "price_per_gallon": 3.19
+  },
+  {
+    "station_id": 112,
+    "name": "Canarsie - National Grid",
+    "city": "Brooklyn",
+    "state": "NY",
+    "latitude": 40.64554,
+    "longitude": -73.918344,
+    "price_per_gallon": 4.48
+  },
+  {
+    "station_id": 129,
+    "name": "Con Edison - Van Nest Service Center",
+    "city": "Bronx",
+    "state": "NY",
+    "latitude": 40.8441883,
+    "longitude": -73.8615724,
+    "price_per_gallon": 4.38
+  },
+  {
+    "station_id": 130,
+    "name": "Con Edison - Rye Service Center",
+    "city": "Rye",
+    "state": "NY",
+    "latitude": 40.979001,
+    "longitude": -73.693048,
+    "price_per_gallon": 3.31
+  },
+  {
+    "station_id": 147,
+    "name": "CNG Source Fueling - Greene's Auto & Truck Service",
+    "city": "Indianapolis",
+    "state": "IN",
+    "latitude": 39.736169,
+    "longitude": -86.161743,
+    "price_per_gallon": 4.33
+  },
+  {
+    "station_id": 215,
+    "name": "Black Hills Energy",
+    "city": "Cheyenne",
+    "state": "WY",
+    "latitude": 41.135848,
+    "longitude": -104.830233,
+    "price_per_gallon": 3.03
+  },
+  {
+    "station_id": 360,
+    "name": "Clean Energy - City of Santa Fe - Santa Fe Trails Transit",
+    "city": "Santa Fe",
+    "state": "NM",
+    "latitude": 35.65758,
+    "longitude": -105.993406,
+    "price_per_gallon": 4.18
+  },
+  {
+    "station_id": 372,
+    "name": "Kansas Gas Service",
+    "city": "Overland Park",
+    "state": "KS",
+    "latitude": 38.966292,
+    "longitude": -94.715917,
+    "price_per_gallon": 3.37
+  },
+  {
+    "station_id": 434,
+    "name": "Kansas Gas Service",
+    "city": "Topeka",
+    "state": "KS",
+    "latitude": 39.058754,
+    "longitude": -95.667854,
+    "price_per_gallon": 3.31
+  },
+  {
+    "station_id": 448,
+    "name": "Clean Energy - Brentwood - National Grid",
+    "city": "Brentwood",
+    "state": "NY",
+    "latitude": 40.785664,
+    "longitude": -73.219818,
+    "price_per_gallon": 3.71
+  },
+  {
+    "station_id": 453,
+    "name": "Clean Energy - City of Irving",
+    "city": "Irving",
+    "state": "TX",
+    "latitude": 32.817883,
+    "longitude": -96.988716,
+    "price_per_gallon": 4.3
+  },
+  {
+    "station_id": 456,
+    "name": "Clean Energy - Downtown Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.76662,
+    "longitude": -96.807086,
+    "price_per_gallon": 4.29
+  },
+  {
+    "station_id": 477,
+    "name": "Clean Energy - Garland Independent School District",
+    "city": "Garland",
+    "state": "TX",
+    "latitude": 32.89683,
+    "longitude": -96.68401,
+    "price_per_gallon": 3.42
+  },
+  {
+    "station_id": 528,
+    "name": "Enbridge Gas - Salt Lake City",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "latitude": 40.764976,
+    "longitude": -111.922291,
+    "price_per_gallon": 3.41
+  },
+  {
+    "station_id": 548,
+    "name": "Enbridge Gas - LW's Conoco",
+    "city": "Logan",
+    "state": "UT",
+    "latitude": 41.734633,
+    "longitude": -111.861488,
+    "price_per_gallon": 4.15
+  },
+  {
+    "station_id": 558,
+    "name": "Enbridge Gas - Market Express Sinclair",
+    "city": "Price",
+    "state": "UT",
+    "latitude": 39.586805,
+    "longitude": -110.813433,
+    "price_per_gallon": 4.36
+  },
+  {
+    "station_id": 569,
+    "name": "Enbridge Gas - Chevron",
+    "city": "Richfield",
+    "state": "UT",
+    "latitude": 38.786621,
+    "longitude": -112.084147,
+    "price_per_gallon": 3.96
+  },
+  {
+    "station_id": 633,
+    "name": "Freedom CNG",
+    "city": "Castle Rock",
+    "state": "CO",
+    "latitude": 39.407087,
+    "longitude": -104.872002,
+    "price_per_gallon": 3.58
+  },
+  {
+    "station_id": 648,
+    "name": "Clean Energy - Denver International Airport Rental Car",
+    "city": "Denver",
+    "state": "CO",
+    "latitude": 39.8379,
+    "longitude": -104.7085,
+    "price_per_gallon": 4.22
+  },
+  {
+    "station_id": 703,
+    "name": "Clean Energy - Albany - National Grid",
+    "city": "Menands",
+    "state": "NY",
+    "latitude": 42.667569,
+    "longitude": -73.739345,
+    "price_per_gallon": 3.74
+  },
+  {
+    "station_id": 740,
+    "name": "Oklahoma Natural Gas - Southside Service Center",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.406042,
+    "longitude": -97.503367,
+    "price_per_gallon": 3.53
+  },
+  {
+    "station_id": 743,
+    "name": "Oklahoma Natural Gas - Southern Oklahoma Development Association",
+    "city": "Ardmore",
+    "state": "OK",
+    "latitude": 34.20293,
+    "longitude": -97.15095,
+    "price_per_gallon": 3.0
+  },
+  {
+    "station_id": 748,
+    "name": "Oklahoma Natural Gas - Enid Service Center",
+    "city": "Enid",
+    "state": "OK",
+    "latitude": 36.393246,
+    "longitude": -97.942055,
+    "price_per_gallon": 3.69
+  },
+  {
+    "station_id": 755,
+    "name": "Oklahoma Natural Gas - Tulsa Service Center",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.13876,
+    "longitude": -95.911286,
+    "price_per_gallon": 3.46
+  },
+  {
+    "station_id": 765,
+    "name": "Oklahoma Natural Gas - Muskogee Service Center",
+    "city": "Muskogee",
+    "state": "OK",
+    "latitude": 35.740689,
+    "longitude": -95.396141,
+    "price_per_gallon": 3.86
+  },
+  {
+    "station_id": 767,
+    "name": "Oklahoma Natural Gas - Ponca City Service Center",
+    "city": "Ponca City",
+    "state": "OK",
+    "latitude": 36.730008,
+    "longitude": -97.093765,
+    "price_per_gallon": 3.39
+  },
+  {
+    "station_id": 768,
+    "name": "Oklahoma Natural Gas - Shawnee Service Center",
+    "city": "Shawnee",
+    "state": "OK",
+    "latitude": 35.346744,
+    "longitude": -96.930096,
+    "price_per_gallon": 3.25
+  },
+  {
+    "station_id": 787,
+    "name": "Clean Energy - Plymouth",
+    "city": "Plymouth Meeting",
+    "state": "PA",
+    "latitude": 40.080572,
+    "longitude": -75.252389,
+    "price_per_gallon": 4.33
+  },
+  {
+    "station_id": 792,
+    "name": "PG&E - Grass Valley Service Center",
+    "city": "Grass Valley",
+    "state": "CA",
+    "latitude": 39.20062,
+    "longitude": -121.062126,
+    "price_per_gallon": 3.78
+  },
+  {
+    "station_id": 798,
+    "name": "PG&E - Santa Cruz Service Center",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "latitude": 36.969267,
+    "longitude": -121.999295,
+    "price_per_gallon": 3.59
+  },
+  {
+    "station_id": 801,
+    "name": "PG&E - Bakersfield Service Center",
+    "city": "Bakersfield",
+    "state": "CA",
+    "latitude": 35.317617,
+    "longitude": -119.039048,
+    "price_per_gallon": 2.96
+  },
+  {
+    "station_id": 806,
+    "name": "PG&E - Fresno Service Center",
+    "city": "Fresno",
+    "state": "CA",
+    "latitude": 36.72136,
+    "longitude": -119.761165,
+    "price_per_gallon": 4.34
+  },
+  {
+    "station_id": 809,
+    "name": "PG&E - Salinas Service Center",
+    "city": "Salinas",
+    "state": "CA",
+    "latitude": 36.67217,
+    "longitude": -121.641106,
+    "price_per_gallon": 4.03
+  },
+  {
+    "station_id": 810,
+    "name": "PG&E - San Carlos Service Center",
+    "city": "San Carlos",
+    "state": "CA",
+    "latitude": 37.51689164917228,
+    "longitude": -122.2624653462799,
+    "price_per_gallon": 2.98
+  },
+  {
+    "station_id": 818,
+    "name": "PG&E - Hayward Service Center",
+    "city": "Hayward",
+    "state": "CA",
+    "latitude": 37.642339,
+    "longitude": -122.117821,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 826,
+    "name": "PG&E - Richmond Service Center",
+    "city": "Richmond",
+    "state": "CA",
+    "latitude": 37.916909,
+    "longitude": -122.344036,
+    "price_per_gallon": 3.14
+  },
+  {
+    "station_id": 827,
+    "name": "PG&E - San Rafael Service Center",
+    "city": "San Rafael",
+    "state": "CA",
+    "latitude": 37.951236,
+    "longitude": -122.499682,
+    "price_per_gallon": 4.49
+  },
+  {
+    "station_id": 828,
+    "name": "PG&E - Cupertino Service Center",
+    "city": "Cupertino",
+    "state": "CA",
+    "latitude": 37.335646,
+    "longitude": -122.021398,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 832,
+    "name": "PG&E - Stockton Service Center",
+    "city": "Stockton",
+    "state": "CA",
+    "latitude": 37.990624,
+    "longitude": -121.283787,
+    "price_per_gallon": 3.89
+  },
+  {
+    "station_id": 834,
+    "name": "PG&E - Santa Rosa Service Center",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "latitude": 38.428592,
+    "longitude": -122.766929,
+    "price_per_gallon": 3.32
+  },
+  {
+    "station_id": 835,
+    "name": "PG&E - Auburn Service Center",
+    "city": "Auburn",
+    "state": "CA",
+    "latitude": 38.888863,
+    "longitude": -121.074465,
+    "price_per_gallon": 2.85
+  },
+  {
+    "station_id": 836,
+    "name": "PG&E - Davis Service Center",
+    "city": "Davis",
+    "state": "CA",
+    "latitude": 38.545155,
+    "longitude": -121.731878,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 842,
+    "name": "PG&E - Florin-Perkins Service Center",
+    "city": "Sacramento",
+    "state": "CA",
+    "latitude": 38.52681700136836,
+    "longitude": -121.3904188113575,
+    "price_per_gallon": 3.22
+  },
+  {
+    "station_id": 864,
+    "name": "City of Milton",
+    "city": "Milton",
+    "state": "FL",
+    "latitude": 30.633284,
+    "longitude": -87.041286,
+    "price_per_gallon": 3.42
+  },
+  {
+    "station_id": 897,
+    "name": "Piedmont Natural Gas - Greenville",
+    "city": "Greenville",
+    "state": "SC",
+    "latitude": 34.829494,
+    "longitude": -82.310005,
+    "price_per_gallon": 4.23
+  },
+  {
+    "station_id": 907,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Raleigh",
+    "state": "NC",
+    "latitude": 35.860856,
+    "longitude": -78.594331,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 939,
+    "name": "Chula Vista Education Center",
+    "city": "Chula Vista",
+    "state": "CA",
+    "latitude": 32.631042,
+    "longitude": -117.057953,
+    "price_per_gallon": 4.09
+  },
+  {
+    "station_id": 942,
+    "name": "San Diego Gas and Electric - Carlsbad",
+    "city": "Carlsbad",
+    "state": "CA",
+    "latitude": 33.13411446156775,
+    "longitude": -117.3323436878052,
+    "price_per_gallon": 3.63
+  },
+  {
+    "station_id": 945,
+    "name": "Poway Unified School District",
+    "city": "Poway",
+    "state": "CA",
+    "latitude": 32.978339,
+    "longitude": -117.034924,
+    "price_per_gallon": 3.31
+  },
+  {
+    "station_id": 951,
+    "name": "San Diego Gas and Electric Service Center - Miramar Yard",
+    "city": "San Diego",
+    "state": "CA",
+    "latitude": 32.876295,
+    "longitude": -117.166362,
+    "price_per_gallon": 3.26
+  },
+  {
+    "station_id": 982,
+    "name": "Clean Energy - Waste Management - Moreno Valley",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "latitude": 33.862772,
+    "longitude": -117.234706,
+    "price_per_gallon": 3.75
+  },
+  {
+    "station_id": 995,
+    "name": "Clean Energy - Santa Monica SoCal Gas",
+    "city": "Santa Monica",
+    "state": "CA",
+    "latitude": 34.030601,
+    "longitude": -118.465876,
+    "price_per_gallon": 3.35
+  },
+  {
+    "station_id": 997,
+    "name": "Clean Energy - Los Angeles County Sanitation District",
+    "city": "Whittier",
+    "state": "CA",
+    "latitude": 34.025657,
+    "longitude": -118.031019,
+    "price_per_gallon": 3.54
+  },
+  {
+    "station_id": 1000,
+    "name": "SoCalGas - Pico Rivera Base",
+    "city": "Pico Rivera",
+    "state": "CA",
+    "latitude": 33.968221,
+    "longitude": -118.109093,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 1002,
+    "name": "SoCalGas - San Pedro Base",
+    "city": "Los Angeles",
+    "state": "CA",
+    "latitude": 33.758315,
+    "longitude": -118.293979,
+    "price_per_gallon": 3.76
+  },
+  {
+    "station_id": 1006,
+    "name": "SoCalGas - Van Nuys Base",
+    "city": "Los Angeles",
+    "state": "CA",
+    "latitude": 34.209219,
+    "longitude": -118.496403,
+    "price_per_gallon": 3.93
+  },
+  {
+    "station_id": 1009,
+    "name": "City of Covina - City Corporate Yard",
+    "city": "Covina",
+    "state": "CA",
+    "latitude": 34.091688,
+    "longitude": -117.87986,
+    "price_per_gallon": 4.46
+  },
+  {
+    "station_id": 1010,
+    "name": "Clean Energy - Los Angeles County Metropolitan Transportation Authority - Division 8",
+    "city": "Chatsworth",
+    "state": "CA",
+    "latitude": 34.2370197786977,
+    "longitude": -118.597759390213,
+    "price_per_gallon": 3.72
+  },
+  {
+    "station_id": 1017,
+    "name": "SoCalGas - Garden Grove Base",
+    "city": "Garden Grove",
+    "state": "CA",
+    "latitude": 33.778966,
+    "longitude": -118.007908,
+    "price_per_gallon": 3.46
+  },
+  {
+    "station_id": 1022,
+    "name": "Clean Energy - Irvine City Yard",
+    "city": "Irvine",
+    "state": "CA",
+    "latitude": 33.676026,
+    "longitude": -117.764558,
+    "price_per_gallon": 3.92
+  },
+  {
+    "station_id": 1025,
+    "name": "SoCalGas - Oxnard Base",
+    "city": "Oxnard",
+    "state": "CA",
+    "latitude": 34.191405,
+    "longitude": -119.161215,
+    "price_per_gallon": 3.8
+  },
+  {
+    "station_id": 1108,
+    "name": "Virginia Natural Gas - Lance Rd",
+    "city": "Norfolk",
+    "state": "VA",
+    "latitude": 36.864044,
+    "longitude": -76.217318,
+    "price_per_gallon": 3.81
+  },
+  {
+    "station_id": 1110,
+    "name": "Virginia Natural Gas - VNG Office",
+    "city": "Newport News",
+    "state": "VA",
+    "latitude": 37.083023,
+    "longitude": -76.463112,
+    "price_per_gallon": 2.99
+  },
+  {
+    "station_id": 1215,
+    "name": "Memphis Light, Gas and Water - North Center",
+    "city": "Memphis",
+    "state": "TN",
+    "latitude": 35.166531,
+    "longitude": -89.972823,
+    "price_per_gallon": 3.95
+  },
+  {
+    "station_id": 1251,
+    "name": "Clean Energy - Los Angeles International Airport",
+    "city": "Los Angeles",
+    "state": "CA",
+    "latitude": 33.941383,
+    "longitude": -118.377866,
+    "price_per_gallon": 4.2
+  },
+  {
+    "station_id": 1264,
+    "name": "Oklahoma Natural Gas - Okmulgee Service Center",
+    "city": "Okmulgee",
+    "state": "OK",
+    "latitude": 35.602719,
+    "longitude": -95.962047,
+    "price_per_gallon": 3.76
+  },
+  {
+    "station_id": 1347,
+    "name": "PG&E - Chico Service Center",
+    "city": "Chico",
+    "state": "CA",
+    "latitude": 39.710548,
+    "longitude": -121.812671,
+    "price_per_gallon": 3.0
+  },
+  {
+    "station_id": 1349,
+    "name": "PG&E - Vacaville Service Center",
+    "city": "Vacaville",
+    "state": "CA",
+    "latitude": 38.3509,
+    "longitude": -121.977342,
+    "price_per_gallon": 3.98
+  },
+  {
+    "station_id": 1352,
+    "name": "SunLine Transit Agency",
+    "city": "Indio",
+    "state": "CA",
+    "latitude": 33.714919,
+    "longitude": -116.211564,
+    "price_per_gallon": 4.01
+  },
+  {
+    "station_id": 1354,
+    "name": "Trillium - Southern California Gas Co",
+    "city": "Anaheim",
+    "state": "CA",
+    "latitude": 33.801121,
+    "longitude": -117.889388,
+    "price_per_gallon": 4.36
+  },
+  {
+    "station_id": 1361,
+    "name": "SoCalGas - Compton Base",
+    "city": "Compton",
+    "state": "CA",
+    "latitude": 33.899899,
+    "longitude": -118.207088,
+    "price_per_gallon": 4.47
+  },
+  {
+    "station_id": 1380,
+    "name": "Clean Energy - Palm Springs International Airport",
+    "city": "Palm Springs",
+    "state": "CA",
+    "latitude": 33.823151,
+    "longitude": -116.508135,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 7037,
+    "name": "United Parcel Service",
+    "city": "Ontario",
+    "state": "CA",
+    "latitude": 34.042311,
+    "longitude": -117.584572,
+    "price_per_gallon": 3.26
+  },
+  {
+    "station_id": 7041,
+    "name": "Clean Energy - City of Tulare",
+    "city": "Tulare",
+    "state": "CA",
+    "latitude": 36.169487,
+    "longitude": -119.338155,
+    "price_per_gallon": 4.04
+  },
+  {
+    "station_id": 7108,
+    "name": "Oklahoma Natural Gas - Broken Arrow Service Center",
+    "city": "Broken Arrow",
+    "state": "OK",
+    "latitude": 36.023112,
+    "longitude": -95.786303,
+    "price_per_gallon": 4.44
+  },
+  {
+    "station_id": 12767,
+    "name": "Clean Energy - Cockrell Hill",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.723948,
+    "longitude": -96.893853,
+    "price_per_gallon": 4.12
+  },
+  {
+    "station_id": 12781,
+    "name": "Oklahoma Natural Gas - Norman Service Center",
+    "city": "Norman",
+    "state": "OK",
+    "latitude": 35.225601,
+    "longitude": -97.458827,
+    "price_per_gallon": 3.11
+  },
+  {
+    "station_id": 12783,
+    "name": "Oklahoma Natural Gas - Pauls Valley Service Center",
+    "city": "Pauls Valley",
+    "state": "OK",
+    "latitude": 34.707522,
+    "longitude": -97.242035,
+    "price_per_gallon": 4.24
+  },
+  {
+    "station_id": 12784,
+    "name": "Oklahoma Natural Gas - CNG Maintenance Facility",
+    "city": "Davenport",
+    "state": "OK",
+    "latitude": 35.7140876,
+    "longitude": -96.7681766,
+    "price_per_gallon": 3.66
+  },
+  {
+    "station_id": 12786,
+    "name": "Oklahoma Natural Gas - Sapulpa Service Center",
+    "city": "Sapulpa",
+    "state": "OK",
+    "latitude": 35.993424,
+    "longitude": -96.127984,
+    "price_per_gallon": 4.32
+  },
+  {
+    "station_id": 12799,
+    "name": "City of Victorville",
+    "city": "Victorville",
+    "state": "CA",
+    "latitude": 34.508713,
+    "longitude": -117.332343,
+    "price_per_gallon": 3.22
+  },
+  {
+    "station_id": 12826,
+    "name": "Fountain Valley - Orange County Sanitation District",
+    "city": "Fountain Valley",
+    "state": "CA",
+    "latitude": 33.691565,
+    "longitude": -117.939438,
+    "price_per_gallon": 3.6
+  },
+  {
+    "station_id": 12832,
+    "name": "Whittier Union High School District",
+    "city": "Whittier",
+    "state": "CA",
+    "latitude": 33.954901,
+    "longitude": -118.045014,
+    "price_per_gallon": 3.29
+  },
+  {
+    "station_id": 12839,
+    "name": "SoCalGas - Santa Barbara Base",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "latitude": 34.421443,
+    "longitude": -119.684178,
+    "price_per_gallon": 3.06
+  },
+  {
+    "station_id": 12841,
+    "name": "City of Delano",
+    "city": "Delano",
+    "state": "CA",
+    "latitude": 35.75191,
+    "longitude": -119.240762,
+    "price_per_gallon": 2.95
+  },
+  {
+    "station_id": 18892,
+    "name": "Alternative Vehicle Service Group - Tewksbury",
+    "city": "Tewksbury",
+    "state": "MA",
+    "latitude": 42.629512,
+    "longitude": -71.270846,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 18893,
+    "name": "Alternative Vehicle Service Group - Lexington",
+    "city": "Lexington",
+    "state": "MA",
+    "latitude": 42.43985879899109,
+    "longitude": -71.25700522806643,
+    "price_per_gallon": 3.58
+  },
+  {
+    "station_id": 18898,
+    "name": "Clean Energy - Riverhead - National Grid",
+    "city": "Riverhead",
+    "state": "NY",
+    "latitude": 40.940028,
+    "longitude": -72.652774,
+    "price_per_gallon": 3.64
+  },
+  {
+    "station_id": 18900,
+    "name": "Clean Energy - Hewlett - National Grid",
+    "city": "Hewlett",
+    "state": "NY",
+    "latitude": 40.64421,
+    "longitude": -73.70555,
+    "price_per_gallon": 2.98
+  },
+  {
+    "station_id": 18943,
+    "name": "City of Victorville",
+    "city": "Victorville",
+    "state": "CA",
+    "latitude": 34.53939073408298,
+    "longitude": -117.2961996095092,
+    "price_per_gallon": 3.0
+  },
+  {
+    "station_id": 20888,
+    "name": "Clean Energy - University of New Mexico",
+    "city": "Albuquerque",
+    "state": "NM",
+    "latitude": 35.095006,
+    "longitude": -106.6241186,
+    "price_per_gallon": 3.8
+  },
+  {
+    "station_id": 20905,
+    "name": "Alternative Vehicle Service Group - Middleborough",
+    "city": "Middleborough",
+    "state": "MA",
+    "latitude": 41.901602,
+    "longitude": -70.975499,
+    "price_per_gallon": 3.73
+  },
+  {
+    "station_id": 20916,
+    "name": "Oklahoma Natural Gas - Guthrie Service Center",
+    "city": "Guthrie",
+    "state": "OK",
+    "latitude": 35.858586,
+    "longitude": -97.425416,
+    "price_per_gallon": 4.24
+  },
+  {
+    "station_id": 20917,
+    "name": "Oklahoma Natural Gas - Mustang Service Center",
+    "city": "Mustang",
+    "state": "OK",
+    "latitude": 35.391472,
+    "longitude": -97.711691,
+    "price_per_gallon": 4.38
+  },
+  {
+    "station_id": 20918,
+    "name": "Oklahoma Natural Gas - Clinton Service Center",
+    "city": "Clinton",
+    "state": "OK",
+    "latitude": 35.479669,
+    "longitude": -98.983451,
+    "price_per_gallon": 3.72
+  },
+  {
+    "station_id": 20920,
+    "name": "Oklahoma Natural Gas - Bartlesville Service Center",
+    "city": "Bartlesville",
+    "state": "OK",
+    "latitude": 36.764066,
+    "longitude": -95.936657,
+    "price_per_gallon": 3.2
+  },
+  {
+    "station_id": 20921,
+    "name": "Oklahoma Natural Gas - Claremore Service Center",
+    "city": "Claremore",
+    "state": "OK",
+    "latitude": 36.292974,
+    "longitude": -95.628285,
+    "price_per_gallon": 4.03
+  },
+  {
+    "station_id": 20922,
+    "name": "Oklahoma Natural Gas - Miami Service Center",
+    "city": "Miami",
+    "state": "OK",
+    "latitude": 36.874317,
+    "longitude": -94.841332,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 20923,
+    "name": "United Parcel Service",
+    "city": "Fresno",
+    "state": "CA",
+    "latitude": 36.76452,
+    "longitude": -119.8305,
+    "price_per_gallon": 3.22
+  },
+  {
+    "station_id": 22718,
+    "name": "Oklahoma Natural Gas - Tulsa Service Center West",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.060878,
+    "longitude": -96.011698,
+    "price_per_gallon": 3.55
+  },
+  {
+    "station_id": 22719,
+    "name": "Oklahoma Natural Gas - Tillman's Producers Co-op",
+    "city": "Frederick",
+    "state": "OK",
+    "latitude": 34.384494,
+    "longitude": -99.017316,
+    "price_per_gallon": 4.19
+  },
+  {
+    "station_id": 22720,
+    "name": "Oklahoma Natural Gas - Stillwater Service Center",
+    "city": "Stillwater",
+    "state": "OK",
+    "latitude": 36.157402,
+    "longitude": -97.052963,
+    "price_per_gallon": 3.81
+  },
+  {
+    "station_id": 23213,
+    "name": "Salt Lake City International Airport",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "latitude": 40.781373,
+    "longitude": -111.979973,
+    "price_per_gallon": 4.27
+  },
+  {
+    "station_id": 25425,
+    "name": "City of Corona",
+    "city": "Corona",
+    "state": "CA",
+    "latitude": 33.88752735448332,
+    "longitude": -117.5715328981476,
+    "price_per_gallon": 4.28
+  },
+  {
+    "station_id": 25437,
+    "name": "City of Riverside",
+    "city": "Riverside",
+    "state": "CA",
+    "latitude": 33.92399216,
+    "longitude": -117.4119492,
+    "price_per_gallon": 3.03
+  },
+  {
+    "station_id": 25483,
+    "name": "Clean Energy - San Francisco Airport",
+    "city": "San Francisco",
+    "state": "CA",
+    "latitude": 37.63281471742084,
+    "longitude": -122.3983520158691,
+    "price_per_gallon": 4.5
+  },
+  {
+    "station_id": 25600,
+    "name": "SoCalGas - Azusa Base",
+    "city": "Azusa",
+    "state": "CA",
+    "latitude": 34.138664,
+    "longitude": -117.923766,
+    "price_per_gallon": 3.74
+  },
+  {
+    "station_id": 25601,
+    "name": "Trillium - City of Placentia Corporate Yard",
+    "city": "Placentia",
+    "state": "CA",
+    "latitude": 33.860704,
+    "longitude": -117.865217,
+    "price_per_gallon": 3.71
+  },
+  {
+    "station_id": 25673,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Gastonia",
+    "state": "NC",
+    "latitude": 35.251751,
+    "longitude": -81.094667,
+    "price_per_gallon": 4.43
+  },
+  {
+    "station_id": 25763,
+    "name": "SoCalGas - Lancaster Base",
+    "city": "Lancaster",
+    "state": "CA",
+    "latitude": 34.689589,
+    "longitude": -118.130371,
+    "price_per_gallon": 4.15
+  },
+  {
+    "station_id": 25880,
+    "name": "Oklahoma Natural Gas - Anadarko Service Center",
+    "city": "Anadarko",
+    "state": "OK",
+    "latitude": 35.072194,
+    "longitude": -98.214673,
+    "price_per_gallon": 3.35
+  },
+  {
+    "station_id": 26305,
+    "name": "Clean Energy - City of Burbank",
+    "city": "Burbank",
+    "state": "CA",
+    "latitude": 34.182925,
+    "longitude": -118.319347,
+    "price_per_gallon": 2.96
+  },
+  {
+    "station_id": 26306,
+    "name": "Clean Energy - ARCO Cathedral City",
+    "city": "Cathedral City",
+    "state": "CA",
+    "latitude": 33.786385,
+    "longitude": -116.458765,
+    "price_per_gallon": 4.46
+  },
+  {
+    "station_id": 26307,
+    "name": "Clean Energy - Desert Hot Springs Mission Springs Water District",
+    "city": "Desert Hot Springs",
+    "state": "CA",
+    "latitude": 33.94323780109677,
+    "longitude": -116.4977440952148,
+    "price_per_gallon": 3.83
+  },
+  {
+    "station_id": 26308,
+    "name": "Clean Energy - 21st Century Oil - Garden Grove",
+    "city": "Garden Grove",
+    "state": "CA",
+    "latitude": 33.775099,
+    "longitude": -117.906743,
+    "price_per_gallon": 3.67
+  },
+  {
+    "station_id": 26310,
+    "name": "PG&E - Marysville Service Center",
+    "city": "Marysville",
+    "state": "CA",
+    "latitude": 39.143012,
+    "longitude": -121.583657,
+    "price_per_gallon": 4.18
+  },
+  {
+    "station_id": 26314,
+    "name": "Clean Energy - Yucca Valley - Park n Ride Transit Facility",
+    "city": "Yucca Valley",
+    "state": "CA",
+    "latitude": 34.118101,
+    "longitude": -116.45646,
+    "price_per_gallon": 3.81
+  },
+  {
+    "station_id": 26554,
+    "name": "Clean Energy - Oakland International Airport",
+    "city": "Oakland",
+    "state": "CA",
+    "latitude": 37.73137,
+    "longitude": -122.212097,
+    "price_per_gallon": 3.48
+  },
+  {
+    "station_id": 26654,
+    "name": "Clean Energy - Dallas Service Center",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.780992,
+    "longitude": -96.775202,
+    "price_per_gallon": 4.32
+  },
+  {
+    "station_id": 26655,
+    "name": "Clean Energy - Dallas - Love Field Airport",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.8393167425503,
+    "longitude": -96.85319535449219,
+    "price_per_gallon": 3.62
+  },
+  {
+    "station_id": 27653,
+    "name": "Blue Water Area Transit",
+    "city": "Port Huron",
+    "state": "MI",
+    "latitude": 42.977443,
+    "longitude": -82.447928,
+    "price_per_gallon": 3.43
+  },
+  {
+    "station_id": 28177,
+    "name": "Enbridge Gas - Sinclair",
+    "city": "Orem",
+    "state": "UT",
+    "latitude": 40.306765,
+    "longitude": -111.730637,
+    "price_per_gallon": 3.74
+  },
+  {
+    "station_id": 28523,
+    "name": "Victor Valley Transit Authority",
+    "city": "Barstow",
+    "state": "CA",
+    "latitude": 34.886448,
+    "longitude": -117.079423,
+    "price_per_gallon": 4.21
+  },
+  {
+    "station_id": 29168,
+    "name": "Clean Energy - Downtown Tucson",
+    "city": "Tucson",
+    "state": "AZ",
+    "latitude": 32.214451,
+    "longitude": -110.945473,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 30355,
+    "name": "Alternative Vehicle Service Group - Walpole",
+    "city": "Walpole",
+    "state": "MA",
+    "latitude": 42.139911,
+    "longitude": -71.21695,
+    "price_per_gallon": 4.02
+  },
+  {
+    "station_id": 30619,
+    "name": "Clean Energy - Los Angeles Sanitation District",
+    "city": "Carson",
+    "state": "CA",
+    "latitude": 33.807567,
+    "longitude": -118.284438,
+    "price_per_gallon": 3.76
+  },
+  {
+    "station_id": 30622,
+    "name": "Trillium - City of Austin",
+    "city": "Austin",
+    "state": "TX",
+    "latitude": 30.213718,
+    "longitude": -97.738941,
+    "price_per_gallon": 4.46
+  },
+  {
+    "station_id": 30626,
+    "name": "Clean Energy - Long Beach Gas and Oil Department",
+    "city": "Long Beach",
+    "state": "CA",
+    "latitude": 33.81033131459334,
+    "longitude": -118.1629291607132,
+    "price_per_gallon": 4.18
+  },
+  {
+    "station_id": 30628,
+    "name": "Clean Energy - Santa Ana - SoCal Gas Base",
+    "city": "Santa Ana",
+    "state": "CA",
+    "latitude": 33.703906,
+    "longitude": -117.863732,
+    "price_per_gallon": 3.24
+  },
+  {
+    "station_id": 30629,
+    "name": "Clean Energy - San Leandro",
+    "city": "Oakland",
+    "state": "CA",
+    "latitude": 37.746023,
+    "longitude": -122.188974,
+    "price_per_gallon": 4.34
+  },
+  {
+    "station_id": 30630,
+    "name": "Clean Energy - Port of Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "latitude": 37.798995,
+    "longitude": -122.28338,
+    "price_per_gallon": 3.83
+  },
+  {
+    "station_id": 30832,
+    "name": "PG&E - Merced Service Center",
+    "city": "Merced",
+    "state": "CA",
+    "latitude": 37.299692,
+    "longitude": -120.486137,
+    "price_per_gallon": 2.95
+  },
+  {
+    "station_id": 30833,
+    "name": "Clean Energy - Pomona Foothill Transit",
+    "city": "Pomona",
+    "state": "CA",
+    "latitude": 34.059216,
+    "longitude": -117.722362,
+    "price_per_gallon": 3.14
+  },
+  {
+    "station_id": 32422,
+    "name": "Clean Energy - City of Santa Clarita",
+    "city": "Santa Clarita",
+    "state": "CA",
+    "latitude": 34.448887,
+    "longitude": -118.576562,
+    "price_per_gallon": 4.02
+  },
+  {
+    "station_id": 32669,
+    "name": "City of San Bernardino",
+    "city": "San Bernardino",
+    "state": "CA",
+    "latitude": 34.098543,
+    "longitude": -117.288482,
+    "price_per_gallon": 4.36
+  },
+  {
+    "station_id": 32670,
+    "name": "Oklahoma Natural Gas - Tulsa North Service Center",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.250159,
+    "longitude": -95.921194,
+    "price_per_gallon": 3.63
+  },
+  {
+    "station_id": 32671,
+    "name": "Blue Energy Fuels - Tulsa Gas Technologies",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.093705,
+    "longitude": -95.863764,
+    "price_per_gallon": 4.34
+  },
+  {
+    "station_id": 32831,
+    "name": "City of Riverside",
+    "city": "Riverside",
+    "state": "CA",
+    "latitude": 33.96068,
+    "longitude": -117.454372,
+    "price_per_gallon": 3.91
+  },
+  {
+    "station_id": 33204,
+    "name": "Enbridge Gas - LW's Travel Plaza",
+    "city": "Perry",
+    "state": "UT",
+    "latitude": 41.485609,
+    "longitude": -112.057813,
+    "price_per_gallon": 4.4
+  },
+  {
+    "station_id": 33205,
+    "name": "Enbridge Gas - RB's Fuel Stop - Phillips 66",
+    "city": "Woods Cross",
+    "state": "UT",
+    "latitude": 40.883673,
+    "longitude": -111.898809,
+    "price_per_gallon": 3.86
+  },
+  {
+    "station_id": 33323,
+    "name": "PG&E - Los Banos Service Center",
+    "city": "Los Banos",
+    "state": "CA",
+    "latitude": 37.058724,
+    "longitude": -120.843011,
+    "price_per_gallon": 4.39
+  },
+  {
+    "station_id": 33387,
+    "name": "Republic Services - Rainbow Disposal",
+    "city": "Huntington Beach",
+    "state": "CA",
+    "latitude": 33.71397,
+    "longitude": -117.996294,
+    "price_per_gallon": 4.02
+  },
+  {
+    "station_id": 33425,
+    "name": "City of San Fernando",
+    "city": "San Fernando",
+    "state": "CA",
+    "latitude": 34.283588,
+    "longitude": -118.43876,
+    "price_per_gallon": 4.15
+  },
+  {
+    "station_id": 33428,
+    "name": "Airport Mart - Clark",
+    "city": "Milwaukee",
+    "state": "WI",
+    "latitude": 42.935799,
+    "longitude": -87.910313,
+    "price_per_gallon": 2.91
+  },
+  {
+    "station_id": 33533,
+    "name": "Clean Energy - City of Glendale",
+    "city": "Glendale",
+    "state": "CA",
+    "latitude": 34.123436,
+    "longitude": -118.258072,
+    "price_per_gallon": 3.9
+  },
+  {
+    "station_id": 33716,
+    "name": "Clean Energy - College Park",
+    "city": "College Park",
+    "state": "GA",
+    "latitude": 33.632374,
+    "longitude": -84.465773,
+    "price_per_gallon": 4.4
+  },
+  {
+    "station_id": 33898,
+    "name": "Clean Energy - Will Rogers World Airport",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.406026,
+    "longitude": -97.600694,
+    "price_per_gallon": 3.95
+  },
+  {
+    "station_id": 33899,
+    "name": "Clean Energy - Oklahoma State University",
+    "city": "Stillwater",
+    "state": "OK",
+    "latitude": 36.144924,
+    "longitude": -97.086989,
+    "price_per_gallon": 3.15
+  },
+  {
+    "station_id": 34206,
+    "name": "Clean N' Green",
+    "city": "Seattle",
+    "state": "WA",
+    "latitude": 47.531286,
+    "longitude": -122.336979,
+    "price_per_gallon": 3.9
+  },
+  {
+    "station_id": 34474,
+    "name": "Clean Energy - La Cienega",
+    "city": "Los Angeles",
+    "state": "CA",
+    "latitude": 34.059388,
+    "longitude": -118.375858,
+    "price_per_gallon": 3.1
+  },
+  {
+    "station_id": 34475,
+    "name": "Clean Energy - Republic Services",
+    "city": "Boise",
+    "state": "ID",
+    "latitude": 43.608903,
+    "longitude": -116.319821,
+    "price_per_gallon": 3.63
+  },
+  {
+    "station_id": 35055,
+    "name": "City of Burlington",
+    "city": "Burlington",
+    "state": "VT",
+    "latitude": 44.461715,
+    "longitude": -73.215217,
+    "price_per_gallon": 4.25
+  },
+  {
+    "station_id": 35056,
+    "name": "Enbridge Gas - Evanston",
+    "city": "Evanston",
+    "state": "WY",
+    "latitude": 41.26254,
+    "longitude": -110.99373,
+    "price_per_gallon": 3.63
+  },
+  {
+    "station_id": 35073,
+    "name": "Clean Energy - Port of Long Beach",
+    "city": "Wilmington",
+    "state": "CA",
+    "latitude": 33.78311,
+    "longitude": -118.222,
+    "price_per_gallon": 3.36
+  },
+  {
+    "station_id": 35075,
+    "name": "City of Porterville",
+    "city": "Porterville",
+    "state": "CA",
+    "latitude": 36.075856,
+    "longitude": -119.043996,
+    "price_per_gallon": 3.41
+  },
+  {
+    "station_id": 35131,
+    "name": "Clean Energy - Ontario International Airport",
+    "city": "Ontario",
+    "state": "CA",
+    "latitude": 34.06075086494806,
+    "longitude": -117.5789392730164,
+    "price_per_gallon": 3.14
+  },
+  {
+    "station_id": 35309,
+    "name": "Clean Energy - Atlantic County Utilities Authority",
+    "city": "Egg Harbor Township",
+    "state": "NJ",
+    "latitude": 39.417088,
+    "longitude": -74.538731,
+    "price_per_gallon": 4.12
+  },
+  {
+    "station_id": 35316,
+    "name": "Clean Energy - Austin Bergstrom International Airport",
+    "city": "Austin",
+    "state": "TX",
+    "latitude": 30.209023,
+    "longitude": -97.67202,
+    "price_per_gallon": 3.77
+  },
+  {
+    "station_id": 35318,
+    "name": "Clean Energy - Town of Brookhaven",
+    "city": "Yaphank",
+    "state": "NY",
+    "latitude": 40.800178,
+    "longitude": -72.921177,
+    "price_per_gallon": 3.63
+  },
+  {
+    "station_id": 35385,
+    "name": "Enbridge Gas - Chevron",
+    "city": "Hurricane",
+    "state": "UT",
+    "latitude": 37.161682,
+    "longitude": -113.434692,
+    "price_per_gallon": 4.3
+  },
+  {
+    "station_id": 35593,
+    "name": "Clearwater Gas System",
+    "city": "Clearwater",
+    "state": "FL",
+    "latitude": 27.975649,
+    "longitude": -82.75459,
+    "price_per_gallon": 3.64
+  },
+  {
+    "station_id": 35598,
+    "name": "Clean Energy - Orange County Public Works",
+    "city": "Orange",
+    "state": "CA",
+    "latitude": 33.803166,
+    "longitude": -117.874464,
+    "price_per_gallon": 3.18
+  },
+  {
+    "station_id": 35656,
+    "name": "Clean Energy - Newport Beach",
+    "city": "Newport Beach",
+    "state": "CA",
+    "latitude": 33.63214438444713,
+    "longitude": -117.9271508439026,
+    "price_per_gallon": 3.73
+  },
+  {
+    "station_id": 35685,
+    "name": "University of California San Diego",
+    "city": "La Jolla",
+    "state": "CA",
+    "latitude": 32.877647,
+    "longitude": -117.240042,
+    "price_per_gallon": 2.91
+  },
+  {
+    "station_id": 35699,
+    "name": "Semi-Service",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "latitude": 40.739411,
+    "longitude": -111.992133,
+    "price_per_gallon": 3.27
+  },
+  {
+    "station_id": 35786,
+    "name": "Enbridge Gas - Moab Service Center",
+    "city": "Moab",
+    "state": "UT",
+    "latitude": 38.536757,
+    "longitude": -109.511772,
+    "price_per_gallon": 4.14
+  },
+  {
+    "station_id": 35787,
+    "name": "Christensen Oil - Sinclair",
+    "city": "St. George",
+    "state": "UT",
+    "latitude": 37.081594,
+    "longitude": -113.576795,
+    "price_per_gallon": 4.38
+  },
+  {
+    "station_id": 35907,
+    "name": "Pilot - Naples",
+    "city": "Naples",
+    "state": "UT",
+    "latitude": 40.43341,
+    "longitude": -109.498603,
+    "price_per_gallon": 3.37
+  },
+  {
+    "station_id": 36292,
+    "name": "Clean Energy - Anaheim - Chevron",
+    "city": "Anaheim",
+    "state": "CA",
+    "latitude": 33.795746,
+    "longitude": -117.914556,
+    "price_per_gallon": 3.69
+  },
+  {
+    "station_id": 36294,
+    "name": "Freedom CNG",
+    "city": "Fort Lupton",
+    "state": "CO",
+    "latitude": 40.115736,
+    "longitude": -104.81034,
+    "price_per_gallon": 3.66
+  },
+  {
+    "station_id": 36295,
+    "name": "X3Energy",
+    "city": "Kersey",
+    "state": "CO",
+    "latitude": 40.392048,
+    "longitude": -104.564368,
+    "price_per_gallon": 3.12
+  },
+  {
+    "station_id": 36296,
+    "name": "Clean Energy - Yellow Cab",
+    "city": "Bloomfield",
+    "state": "CT",
+    "latitude": 41.810889,
+    "longitude": -72.708142,
+    "price_per_gallon": 3.39
+  },
+  {
+    "station_id": 36304,
+    "name": "DeKalb County - Seminole Road Landfill",
+    "city": "Ellenwood",
+    "state": "GA",
+    "latitude": 33.652844,
+    "longitude": -84.253832,
+    "price_per_gallon": 4.28
+  },
+  {
+    "station_id": 36309,
+    "name": "Clean Energy - Atlantic City Jitney Association",
+    "city": "Egg Harbor Township",
+    "state": "NJ",
+    "latitude": 39.410942,
+    "longitude": -74.53063,
+    "price_per_gallon": 3.97
+  },
+  {
+    "station_id": 36310,
+    "name": "Newark Liberty International Airport - Wally Park",
+    "city": "Newark",
+    "state": "NJ",
+    "latitude": 40.691831,
+    "longitude": -74.184861,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 36311,
+    "name": "Giant Eagle - Ok Grocery",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "latitude": 40.453507,
+    "longitude": -80.085371,
+    "price_per_gallon": 3.21
+  },
+  {
+    "station_id": 36312,
+    "name": "Enbridge Gas - Flying J Travel Plaza - Scipio",
+    "city": "Scipio",
+    "state": "UT",
+    "latitude": 39.255065,
+    "longitude": -112.116282,
+    "price_per_gallon": 4.11
+  },
+  {
+    "station_id": 36580,
+    "name": "Clean Energy - Republic Services",
+    "city": "Nampa",
+    "state": "ID",
+    "latitude": 43.593304,
+    "longitude": -116.534414,
+    "price_per_gallon": 3.95
+  },
+  {
+    "station_id": 36582,
+    "name": "Public CNG - Henderson County",
+    "city": "Hendersonville",
+    "state": "NC",
+    "latitude": 35.317219,
+    "longitude": -82.453896,
+    "price_per_gallon": 4.38
+  },
+  {
+    "station_id": 36584,
+    "name": "City of Columbus - Fleet Management",
+    "city": "Columbus",
+    "state": "OH",
+    "latitude": 39.930318,
+    "longitude": -82.885496,
+    "price_per_gallon": 3.68
+  },
+  {
+    "station_id": 36586,
+    "name": "Arkansas Oklahoma Gas Corp",
+    "city": "Arkoma",
+    "state": "OK",
+    "latitude": 35.3546799,
+    "longitude": -94.4373794,
+    "price_per_gallon": 4.02
+  },
+  {
+    "station_id": 36587,
+    "name": "OnCue Express #105",
+    "city": "Edmond",
+    "state": "OK",
+    "latitude": 35.646197,
+    "longitude": -97.48204,
+    "price_per_gallon": 3.91
+  },
+  {
+    "station_id": 36589,
+    "name": "Love's Country Store #5",
+    "city": "Kingfisher",
+    "state": "OK",
+    "latitude": 35.859467,
+    "longitude": -97.932226,
+    "price_per_gallon": 3.28
+  },
+  {
+    "station_id": 36591,
+    "name": "OnCue #100",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.463717,
+    "longitude": -97.619498,
+    "price_per_gallon": 3.2
+  },
+  {
+    "station_id": 36592,
+    "name": "OnCue Express #101",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.494079,
+    "longitude": -97.511596,
+    "price_per_gallon": 3.34
+  },
+  {
+    "station_id": 36622,
+    "name": "Clean Energy - Dallas Fort Worth Airport Rental Car Center",
+    "city": "Irving",
+    "state": "TX",
+    "latitude": 32.852927,
+    "longitude": -97.036229,
+    "price_per_gallon": 3.76
+  },
+  {
+    "station_id": 36773,
+    "name": "Blue Energy Fuels - City of Owasso",
+    "city": "Owasso",
+    "state": "OK",
+    "latitude": 36.264897,
+    "longitude": -95.854698,
+    "price_per_gallon": 4.04
+  },
+  {
+    "station_id": 36775,
+    "name": "City of Grand Junction",
+    "city": "Grand Junction",
+    "state": "CO",
+    "latitude": 39.073697,
+    "longitude": -108.582361,
+    "price_per_gallon": 2.91
+  },
+  {
+    "station_id": 36777,
+    "name": "City of Springfield",
+    "city": "Springfield",
+    "state": "MO",
+    "latitude": 37.215692,
+    "longitude": -93.306068,
+    "price_per_gallon": 3.6
+  },
+  {
+    "station_id": 36778,
+    "name": "City of Socorro",
+    "city": "Socorro",
+    "state": "NM",
+    "latitude": 33.984094,
+    "longitude": -106.887526,
+    "price_per_gallon": 3.47
+  },
+  {
+    "station_id": 36779,
+    "name": "Clean Energy - Town of Smithtown",
+    "city": "Kings Park",
+    "state": "NY",
+    "latitude": 40.873372,
+    "longitude": -73.274183,
+    "price_per_gallon": 3.51
+  },
+  {
+    "station_id": 37120,
+    "name": "Clean Energy - Dallas County",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.776989,
+    "longitude": -96.813018,
+    "price_per_gallon": 3.55
+  },
+  {
+    "station_id": 37121,
+    "name": "Clean Energy - Parking Spot Houston",
+    "city": "Houston",
+    "state": "TX",
+    "latitude": 29.948337,
+    "longitude": -95.331203,
+    "price_per_gallon": 3.22
+  },
+  {
+    "station_id": 38060,
+    "name": "Metropolitan Utilities District",
+    "city": "Omaha",
+    "state": "NE",
+    "latitude": 41.235148,
+    "longitude": -96.011954,
+    "price_per_gallon": 3.6
+  },
+  {
+    "station_id": 38484,
+    "name": "Lincoln Airport Authority",
+    "city": "Lincoln",
+    "state": "NE",
+    "latitude": 40.849302,
+    "longitude": -96.771971,
+    "price_per_gallon": 3.18
+  },
+  {
+    "station_id": 38487,
+    "name": "Clean Energy - Dillon Transport",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.80764,
+    "longitude": -96.896592,
+    "price_per_gallon": 3.32
+  },
+  {
+    "station_id": 39060,
+    "name": "Clean N' Green",
+    "city": "Camden",
+    "state": "NJ",
+    "latitude": 39.914001,
+    "longitude": -75.108896,
+    "price_per_gallon": 3.58
+  },
+  {
+    "station_id": 39189,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Raleigh",
+    "state": "NC",
+    "latitude": 35.782022,
+    "longitude": -78.563001,
+    "price_per_gallon": 3.65
+  },
+  {
+    "station_id": 39196,
+    "name": "Clean Energy - Riverside County Waste Management",
+    "city": "Riverside",
+    "state": "CA",
+    "latitude": 34.02094,
+    "longitude": -117.385415,
+    "price_per_gallon": 3.61
+  },
+  {
+    "station_id": 39655,
+    "name": "York County Natural Gas Authority",
+    "city": "Rock Hill",
+    "state": "SC",
+    "latitude": 34.935622,
+    "longitude": -81.042552,
+    "price_per_gallon": 4.33
+  },
+  {
+    "station_id": 40319,
+    "name": "Enbridge Gas - Weber State University",
+    "city": "Ogden",
+    "state": "UT",
+    "latitude": 41.176663,
+    "longitude": -111.947811,
+    "price_per_gallon": 4.02
+  },
+  {
+    "station_id": 40323,
+    "name": "Clean Energy - Tampa International Airport",
+    "city": "Tampa",
+    "state": "FL",
+    "latitude": 27.991812,
+    "longitude": -82.523467,
+    "price_per_gallon": 4.43
+  },
+  {
+    "station_id": 40851,
+    "name": "Clean Energy - City of Torrance",
+    "city": "Torrance",
+    "state": "CA",
+    "latitude": 33.845681,
+    "longitude": -118.344675,
+    "price_per_gallon": 2.99
+  },
+  {
+    "station_id": 40876,
+    "name": "Clean N' Green",
+    "city": "Santa Ana",
+    "state": "CA",
+    "latitude": 33.72361498214669,
+    "longitude": -117.8531938809509,
+    "price_per_gallon": 3.82
+  },
+  {
+    "station_id": 40878,
+    "name": "Northeast Oklahoma Public Facilities Authority - Tahlequah",
+    "city": "Tahlequah",
+    "state": "OK",
+    "latitude": 35.92491664480067,
+    "longitude": -95.00068553967287,
+    "price_per_gallon": 3.4
+  },
+  {
+    "station_id": 41171,
+    "name": "Clean Energy - City of Elk Grove eTran",
+    "city": "Elk Grove",
+    "state": "CA",
+    "latitude": 38.381451,
+    "longitude": -121.364358,
+    "price_per_gallon": 2.91
+  },
+  {
+    "station_id": 41356,
+    "name": "Alternative Vehicle Service Group - City of Nashua",
+    "city": "Nashua",
+    "state": "NH",
+    "latitude": 42.748652,
+    "longitude": -71.49884,
+    "price_per_gallon": 3.75
+  },
+  {
+    "station_id": 41449,
+    "name": "Chevron - Shop A Lott #3",
+    "city": "Mansfield",
+    "state": "LA",
+    "latitude": 32.029056,
+    "longitude": -93.713243,
+    "price_per_gallon": 4.23
+  },
+  {
+    "station_id": 41450,
+    "name": "Chevron - Leebo's #9",
+    "city": "Alexandria",
+    "state": "LA",
+    "latitude": 31.34545,
+    "longitude": -92.51807,
+    "price_per_gallon": 3.19
+  },
+  {
+    "station_id": 41672,
+    "name": "Clean Energy - Las Vegas City Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "latitude": 36.12275,
+    "longitude": -115.179343,
+    "price_per_gallon": 3.06
+  },
+  {
+    "station_id": 41678,
+    "name": "Clean Energy - Cleveland Hopkins International Airport",
+    "city": "Brook Park",
+    "state": "OH",
+    "latitude": 41.402106,
+    "longitude": -81.828365,
+    "price_per_gallon": 3.01
+  },
+  {
+    "station_id": 41679,
+    "name": "Clean Energy - Stark Area Regional Transit Authority",
+    "city": "Canton",
+    "state": "OH",
+    "latitude": 40.78093,
+    "longitude": -81.36797,
+    "price_per_gallon": 3.41
+  },
+  {
+    "station_id": 41685,
+    "name": "IGS CNG Services - City of Dublin",
+    "city": "Dublin",
+    "state": "OH",
+    "latitude": 40.093708,
+    "longitude": -83.162608,
+    "price_per_gallon": 4.11
+  },
+  {
+    "station_id": 42090,
+    "name": "Piedmont Natural Gas - High Point",
+    "city": "High Point",
+    "state": "NC",
+    "latitude": 35.923838,
+    "longitude": -80.007704,
+    "price_per_gallon": 4.5
+  },
+  {
+    "station_id": 42091,
+    "name": "South Jersey Gas",
+    "city": "Glassboro",
+    "state": "NJ",
+    "latitude": 39.697476,
+    "longitude": -75.112075,
+    "price_per_gallon": 2.89
+  },
+  {
+    "station_id": 42092,
+    "name": "Clean Energy - Syracuse - National Grid",
+    "city": "Syracuse",
+    "state": "NY",
+    "latitude": 43.135479,
+    "longitude": -76.087402,
+    "price_per_gallon": 4.42
+  },
+  {
+    "station_id": 42093,
+    "name": "Clean N' Green",
+    "city": "Buffalo",
+    "state": "NY",
+    "latitude": 42.844172,
+    "longitude": -78.747585,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 42094,
+    "name": "Conoco - Outpost Convenience Store",
+    "city": "Tahlequah",
+    "state": "OK",
+    "latitude": 35.853211,
+    "longitude": -94.989243,
+    "price_per_gallon": 4.41
+  },
+  {
+    "station_id": 42473,
+    "name": "Clean Energy - City of Chula Vista",
+    "city": "Chula Vista",
+    "state": "CA",
+    "latitude": 32.596725,
+    "longitude": -117.019495,
+    "price_per_gallon": 4.39
+  },
+  {
+    "station_id": 42584,
+    "name": "Opal Fuels",
+    "city": "Lafayette",
+    "state": "LA",
+    "latitude": 30.181429,
+    "longitude": -91.993631,
+    "price_per_gallon": 4.14
+  },
+  {
+    "station_id": 42585,
+    "name": "Clean Energy - Louis Armstrong New Orleans International Airport",
+    "city": "Kenner",
+    "state": "LA",
+    "latitude": 29.983445,
+    "longitude": -90.262962,
+    "price_per_gallon": 3.51
+  },
+  {
+    "station_id": 42590,
+    "name": "HPW Energy Inc",
+    "city": "Westfield",
+    "state": "NY",
+    "latitude": 42.340677,
+    "longitude": -79.595958,
+    "price_per_gallon": 4.05
+  },
+  {
+    "station_id": 42591,
+    "name": "OnCue #107",
+    "city": "Del City",
+    "state": "OK",
+    "latitude": 35.434767,
+    "longitude": -97.424626,
+    "price_per_gallon": 3.9
+  },
+  {
+    "station_id": 42595,
+    "name": "TruStar Energy - Tulsa",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.090881,
+    "longitude": -95.923889,
+    "price_per_gallon": 3.05
+  },
+  {
+    "station_id": 42600,
+    "name": "Enbridge Gas - Kaysville",
+    "city": "Kaysville",
+    "state": "UT",
+    "latitude": 41.035784,
+    "longitude": -111.949467,
+    "price_per_gallon": 3.66
+  },
+  {
+    "station_id": 43071,
+    "name": "Clean N' Green",
+    "city": "Washington",
+    "state": "PA",
+    "latitude": 40.208133,
+    "longitude": -80.273462,
+    "price_per_gallon": 2.97
+  },
+  {
+    "station_id": 43353,
+    "name": "ASAP General Store 101",
+    "city": "Weatherford",
+    "state": "OK",
+    "latitude": 35.539229,
+    "longitude": -98.659654,
+    "price_per_gallon": 4.1
+  },
+  {
+    "station_id": 43525,
+    "name": "US Energy - Menomonie",
+    "city": "Menomonie",
+    "state": "WI",
+    "latitude": 44.907104,
+    "longitude": -91.85321,
+    "price_per_gallon": 3.77
+  },
+  {
+    "station_id": 43630,
+    "name": "Clean N' Green",
+    "city": "Curtis Bay",
+    "state": "MD",
+    "latitude": 39.231108,
+    "longitude": -76.574575,
+    "price_per_gallon": 3.44
+  },
+  {
+    "station_id": 43633,
+    "name": "Clean N' Green",
+    "city": "Blaine",
+    "state": "MN",
+    "latitude": 45.152388,
+    "longitude": -93.186274,
+    "price_per_gallon": 3.38
+  },
+  {
+    "station_id": 43651,
+    "name": "City of Norman",
+    "city": "Norman",
+    "state": "OK",
+    "latitude": 35.246922,
+    "longitude": -97.461247,
+    "price_per_gallon": 3.79
+  },
+  {
+    "station_id": 43670,
+    "name": "Clean N' Green",
+    "city": "Conroe",
+    "state": "TX",
+    "latitude": 30.337826,
+    "longitude": -95.412461,
+    "price_per_gallon": 3.86
+  },
+  {
+    "station_id": 43686,
+    "name": "Clean N' Green",
+    "city": "West Jordan",
+    "state": "UT",
+    "latitude": 40.594459,
+    "longitude": -111.986429,
+    "price_per_gallon": 3.42
+  },
+  {
+    "station_id": 43699,
+    "name": "All Waste Inc",
+    "city": "Hartford",
+    "state": "CT",
+    "latitude": 41.741747,
+    "longitude": -72.659203,
+    "price_per_gallon": 4.17
+  },
+  {
+    "station_id": 43705,
+    "name": "US Energy - American Fueling Systems",
+    "city": "Chamblee",
+    "state": "GA",
+    "latitude": 33.873935,
+    "longitude": -84.297481,
+    "price_per_gallon": 4.16
+  },
+  {
+    "station_id": 43713,
+    "name": "Clean N' Green",
+    "city": "Cicero",
+    "state": "IL",
+    "latitude": 41.822729,
+    "longitude": -87.749999,
+    "price_per_gallon": 3.61
+  },
+  {
+    "station_id": 43723,
+    "name": "Clean N' Green",
+    "city": "Mesa",
+    "state": "AZ",
+    "latitude": 33.342023,
+    "longitude": -111.663908,
+    "price_per_gallon": 3.31
+  },
+  {
+    "station_id": 44591,
+    "name": "Trillium",
+    "city": "De Pere",
+    "state": "WI",
+    "latitude": 44.452916,
+    "longitude": -88.093151,
+    "price_per_gallon": 3.28
+  },
+  {
+    "station_id": 44752,
+    "name": "Conoco - Reno Partners",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.464849,
+    "longitude": -97.584064,
+    "price_per_gallon": 3.58
+  },
+  {
+    "station_id": 44848,
+    "name": "Kwik Trip #870",
+    "city": "La Crosse",
+    "state": "WI",
+    "latitude": 43.851658,
+    "longitude": -91.226449,
+    "price_per_gallon": 4.45
+  },
+  {
+    "station_id": 44851,
+    "name": "Kwik Trip #686",
+    "city": "Mount Pleasant",
+    "state": "WI",
+    "latitude": 42.724204,
+    "longitude": -87.952181,
+    "price_per_gallon": 3.03
+  },
+  {
+    "station_id": 45572,
+    "name": "IGS CNG Services - Orrville",
+    "city": "Orrville",
+    "state": "OH",
+    "latitude": 40.853115,
+    "longitude": -81.769421,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 46011,
+    "name": "Satterfield Oak Street Gulf",
+    "city": "Conway",
+    "state": "AR",
+    "latitude": 35.090978,
+    "longitude": -92.410437,
+    "price_per_gallon": 3.94
+  },
+  {
+    "station_id": 46139,
+    "name": "Circleville CNG",
+    "city": "Circleville",
+    "state": "UT",
+    "latitude": 38.164391,
+    "longitude": -112.278183,
+    "price_per_gallon": 3.75
+  },
+  {
+    "station_id": 46193,
+    "name": "Love's Country Store #245",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.377659,
+    "longitude": -97.573527,
+    "price_per_gallon": 3.73
+  },
+  {
+    "station_id": 46195,
+    "name": "Love's Travel Stop #263",
+    "city": "Lawton",
+    "state": "OK",
+    "latitude": 34.713769,
+    "longitude": -98.401654,
+    "price_per_gallon": 4.23
+  },
+  {
+    "station_id": 46338,
+    "name": "US Energy - City of Hamilton",
+    "city": "Hamilton",
+    "state": "OH",
+    "latitude": 39.374016,
+    "longitude": -84.547382,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 46345,
+    "name": "Trillium - Golden Eagle",
+    "city": "Casa Grande",
+    "state": "AZ",
+    "latitude": 32.88178544165742,
+    "longitude": -111.77756148941,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 46346,
+    "name": "Trillium - Golden Eagle",
+    "city": "Tucson",
+    "state": "AZ",
+    "latitude": 32.178328,
+    "longitude": -110.960207,
+    "price_per_gallon": 4.32
+  },
+  {
+    "station_id": 47234,
+    "name": "Premier Transportation",
+    "city": "Forest Park",
+    "state": "GA",
+    "latitude": 33.607933,
+    "longitude": -84.372205,
+    "price_per_gallon": 3.88
+  },
+  {
+    "station_id": 47236,
+    "name": "Nopetro",
+    "city": "Tallahassee",
+    "state": "FL",
+    "latitude": 30.437825,
+    "longitude": -84.354335,
+    "price_per_gallon": 3.06
+  },
+  {
+    "station_id": 47238,
+    "name": "US Energy - Marinette",
+    "city": "Marinette",
+    "state": "WI",
+    "latitude": 45.08577,
+    "longitude": -87.648335,
+    "price_per_gallon": 3.63
+  },
+  {
+    "station_id": 47276,
+    "name": "Chevron CNG Station 387972",
+    "city": "Fair Oaks",
+    "state": "IN",
+    "latitude": 41.01099,
+    "longitude": -87.2761,
+    "price_per_gallon": 4.14
+  },
+  {
+    "station_id": 47282,
+    "name": "Piedmont Natural Gas - Goldsboro",
+    "city": "Dudley",
+    "state": "NC",
+    "latitude": 35.32985596967319,
+    "longitude": -78.04070167990113,
+    "price_per_gallon": 3.15
+  },
+  {
+    "station_id": 47288,
+    "name": "South Jersey Gas",
+    "city": "Millville",
+    "state": "NJ",
+    "latitude": 39.411625,
+    "longitude": -75.03746,
+    "price_per_gallon": 3.39
+  },
+  {
+    "station_id": 47291,
+    "name": "Love's Travel Stop #203",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.457897,
+    "longitude": -97.688507,
+    "price_per_gallon": 3.41
+  },
+  {
+    "station_id": 47292,
+    "name": "Love's Travel Stop #452",
+    "city": "Pauls Valley",
+    "state": "OK",
+    "latitude": 34.707263,
+    "longitude": -97.242136,
+    "price_per_gallon": 4.43
+  },
+  {
+    "station_id": 47293,
+    "name": "Chickasaw Travel Stop - Thackerville",
+    "city": "Thackerville",
+    "state": "OK",
+    "latitude": 33.73573,
+    "longitude": -97.14484,
+    "price_per_gallon": 4.41
+  },
+  {
+    "station_id": 47295,
+    "name": "Greer Commission of Public Works",
+    "city": "Greer",
+    "state": "SC",
+    "latitude": 34.936731,
+    "longitude": -82.233031,
+    "price_per_gallon": 4.21
+  },
+  {
+    "station_id": 47301,
+    "name": "Love's Travel Stop #468",
+    "city": "Willis",
+    "state": "TX",
+    "latitude": 30.437821,
+    "longitude": -95.498724,
+    "price_per_gallon": 3.79
+  },
+  {
+    "station_id": 47992,
+    "name": "City of Tulsa - West Maintenance Yard",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.127685,
+    "longitude": -95.995789,
+    "price_per_gallon": 4.18
+  },
+  {
+    "station_id": 47994,
+    "name": "Hutch's C-Store #113",
+    "city": "Woodward",
+    "state": "OK",
+    "latitude": 36.434113,
+    "longitude": -99.427596,
+    "price_per_gallon": 3.24
+  },
+  {
+    "station_id": 48005,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Asheville",
+    "state": "NC",
+    "latitude": 35.519793,
+    "longitude": -82.603744,
+    "price_per_gallon": 3.88
+  },
+  {
+    "station_id": 48006,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Durham",
+    "state": "NC",
+    "latitude": 35.947924,
+    "longitude": -78.884114,
+    "price_per_gallon": 4.27
+  },
+  {
+    "station_id": 48007,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Troutman",
+    "state": "NC",
+    "latitude": 35.680223,
+    "longitude": -80.858077,
+    "price_per_gallon": 3.27
+  },
+  {
+    "station_id": 48013,
+    "name": "Clean Energy - San Juan Capistrano - Stewart Family Inc - Shell",
+    "city": "San Juan Capistrano",
+    "state": "CA",
+    "latitude": 33.52032,
+    "longitude": -117.667352,
+    "price_per_gallon": 2.86
+  },
+  {
+    "station_id": 48014,
+    "name": "Clean Energy - Arcadia Foothill Transit",
+    "city": "Irwindale",
+    "state": "CA",
+    "latitude": 34.10389,
+    "longitude": -118.006499,
+    "price_per_gallon": 4.46
+  },
+  {
+    "station_id": 48488,
+    "name": "Clean N' Green",
+    "city": "Louisville",
+    "state": "KY",
+    "latitude": 38.134634,
+    "longitude": -85.737722,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 48496,
+    "name": "Hutch's C-Store #119",
+    "city": "Elk City",
+    "state": "OK",
+    "latitude": 35.40817,
+    "longitude": -99.379767,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 48896,
+    "name": "EDCO Disposal - Buena Park",
+    "city": "Buena Park",
+    "state": "CA",
+    "latitude": 33.862442,
+    "longitude": -117.993016,
+    "price_per_gallon": 4.22
+  },
+  {
+    "station_id": 48904,
+    "name": "Chevron CNG Station 387973",
+    "city": "Sellersburg",
+    "state": "IN",
+    "latitude": 38.37313215487,
+    "longitude": -85.7471,
+    "price_per_gallon": 3.96
+  },
+  {
+    "station_id": 48905,
+    "name": "Clean Energy - BWI Airport - Maryland Department of General Services",
+    "city": "Baltimore",
+    "state": "MD",
+    "latitude": 39.1869512743369,
+    "longitude": -76.65601421929625,
+    "price_per_gallon": 3.68
+  },
+  {
+    "station_id": 48906,
+    "name": "Kwik Trip #659",
+    "city": "Rochester",
+    "state": "MN",
+    "latitude": 44.044438,
+    "longitude": -92.514584,
+    "price_per_gallon": 4.17
+  },
+  {
+    "station_id": 48908,
+    "name": "Palo CNG",
+    "city": "Clarion",
+    "state": "PA",
+    "latitude": 41.17288847979592,
+    "longitude": -79.34168206162417,
+    "price_per_gallon": 3.43
+  },
+  {
+    "station_id": 48910,
+    "name": "Clean Energy - Tyburn LLC",
+    "city": "Fairless Hills",
+    "state": "PA",
+    "latitude": 40.179253,
+    "longitude": -74.800407,
+    "price_per_gallon": 3.43
+  },
+  {
+    "station_id": 48911,
+    "name": "Clean Energy - Philadelphia International Airport - Wally Park",
+    "city": "Lester",
+    "state": "PA",
+    "latitude": 39.87495,
+    "longitude": -75.262024,
+    "price_per_gallon": 4.11
+  },
+  {
+    "station_id": 48915,
+    "name": "Clean Energy - Quarles",
+    "city": "Richmond",
+    "state": "VA",
+    "latitude": 37.522579,
+    "longitude": -77.433474,
+    "price_per_gallon": 4.34
+  },
+  {
+    "station_id": 48917,
+    "name": "Kwik Trip #457",
+    "city": "Oshkosh",
+    "state": "WI",
+    "latitude": 43.985877,
+    "longitude": -88.583195,
+    "price_per_gallon": 3.55
+  },
+  {
+    "station_id": 49284,
+    "name": "Kwik Trip #403",
+    "city": "Owatonna",
+    "state": "MN",
+    "latitude": 44.140319,
+    "longitude": -93.252685,
+    "price_per_gallon": 3.72
+  },
+  {
+    "station_id": 49286,
+    "name": "Freedom CNG",
+    "city": "Houston",
+    "state": "TX",
+    "latitude": 29.6189478,
+    "longitude": -95.1903621,
+    "price_per_gallon": 3.63
+  },
+  {
+    "station_id": 49292,
+    "name": "Kwik Trip #679",
+    "city": "Sheboygan",
+    "state": "WI",
+    "latitude": 43.790766,
+    "longitude": -87.761889,
+    "price_per_gallon": 3.86
+  },
+  {
+    "station_id": 49293,
+    "name": "Kwik Trip #396",
+    "city": "Waukesha",
+    "state": "WI",
+    "latitude": 43.0588446946703,
+    "longitude": -88.2048006693115,
+    "price_per_gallon": 3.54
+  },
+  {
+    "station_id": 49294,
+    "name": "Enbridge Gas - Exxon - Get 'N Go",
+    "city": "Rock Springs",
+    "state": "WY",
+    "latitude": 41.613426,
+    "longitude": -109.230026,
+    "price_per_gallon": 3.14
+  },
+  {
+    "station_id": 49302,
+    "name": "Clean Energy - Quarles - Washington Dulles International Airport",
+    "city": "Sterling",
+    "state": "VA",
+    "latitude": 38.97776,
+    "longitude": -77.438304,
+    "price_per_gallon": 3.06
+  },
+  {
+    "station_id": 49545,
+    "name": "Enmarket Travel Center",
+    "city": "Port Wentworth",
+    "state": "GA",
+    "latitude": 32.189249,
+    "longitude": -81.192721,
+    "price_per_gallon": 3.32
+  },
+  {
+    "station_id": 49551,
+    "name": "Sublette School District #1",
+    "city": "Pinedale",
+    "state": "WY",
+    "latitude": 42.8666284,
+    "longitude": -109.8923465,
+    "price_per_gallon": 2.87
+  },
+  {
+    "station_id": 50036,
+    "name": "IGS CNG Services - Speedway",
+    "city": "Monona",
+    "state": "WI",
+    "latitude": 43.043029,
+    "longitude": -89.352921,
+    "price_per_gallon": 3.56
+  },
+  {
+    "station_id": 50048,
+    "name": "Piedmont Natural Gas - Winston-Salem",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "latitude": 36.093837,
+    "longitude": -80.209155,
+    "price_per_gallon": 4.49
+  },
+  {
+    "station_id": 50049,
+    "name": "South Jersey Gas - Lindenwold",
+    "city": "Lindenwold",
+    "state": "NJ",
+    "latitude": 39.811305,
+    "longitude": -74.96135,
+    "price_per_gallon": 3.17
+  },
+  {
+    "station_id": 50050,
+    "name": "Clean N' Green",
+    "city": "Bristol",
+    "state": "PA",
+    "latitude": 40.12200885915346,
+    "longitude": -74.85664414218901,
+    "price_per_gallon": 4.26
+  },
+  {
+    "station_id": 50052,
+    "name": "CNG 4 America - Bryan",
+    "city": "Bryan",
+    "state": "TX",
+    "latitude": 30.725159,
+    "longitude": -96.425728,
+    "price_per_gallon": 3.57
+  },
+  {
+    "station_id": 50053,
+    "name": "CNG 4 America - Katy",
+    "city": "Katy",
+    "state": "TX",
+    "latitude": 29.784231,
+    "longitude": -95.800795,
+    "price_per_gallon": 3.69
+  },
+  {
+    "station_id": 50055,
+    "name": "CNG 4 America - Rosenberg",
+    "city": "Rosenberg",
+    "state": "TX",
+    "latitude": 29.533464,
+    "longitude": -95.776052,
+    "price_per_gallon": 3.35
+  },
+  {
+    "station_id": 50240,
+    "name": "Clean N' Green",
+    "city": "Chino",
+    "state": "CA",
+    "latitude": 34.002873,
+    "longitude": -117.686257,
+    "price_per_gallon": 3.66
+  },
+  {
+    "station_id": 50259,
+    "name": "Pensacola Energy - Pine Forest",
+    "city": "Pensacola",
+    "state": "FL",
+    "latitude": 30.477803,
+    "longitude": -87.304989,
+    "price_per_gallon": 3.01
+  },
+  {
+    "station_id": 50261,
+    "name": "Trillium",
+    "city": "Rockford",
+    "state": "IL",
+    "latitude": 42.22456,
+    "longitude": -89.109935,
+    "price_per_gallon": 4.4
+  },
+  {
+    "station_id": 50268,
+    "name": "OnCue #112",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.608029,
+    "longitude": -97.530713,
+    "price_per_gallon": 3.45
+  },
+  {
+    "station_id": 50646,
+    "name": "Domino Express #1",
+    "city": "Clinton",
+    "state": "OK",
+    "latitude": 35.490972,
+    "longitude": -98.967096,
+    "price_per_gallon": 4.39
+  },
+  {
+    "station_id": 50648,
+    "name": "Northeast Oklahoma Public Facilities Authority - Stilwell",
+    "city": "Stilwell",
+    "state": "OK",
+    "latitude": 35.8387307075083,
+    "longitude": -94.63101432649228,
+    "price_per_gallon": 3.06
+  },
+  {
+    "station_id": 50649,
+    "name": "Dandy Mini-Mart",
+    "city": "Towanda",
+    "state": "PA",
+    "latitude": 41.787689,
+    "longitude": -76.453971,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 51466,
+    "name": "Chevron CNG Station 387948",
+    "city": "Conway",
+    "state": "AR",
+    "latitude": 35.10648,
+    "longitude": -92.4357,
+    "price_per_gallon": 2.86
+  },
+  {
+    "station_id": 51470,
+    "name": "Chevron CNG Station 387985",
+    "city": "Frankfort",
+    "state": "IN",
+    "latitude": 40.18504,
+    "longitude": -86.5332,
+    "price_per_gallon": 3.74
+  },
+  {
+    "station_id": 51471,
+    "name": "Chevron CNG Station 387998",
+    "city": "Indianapolis",
+    "state": "IN",
+    "latitude": 39.6998962999999,
+    "longitude": -86.3143,
+    "price_per_gallon": 4.4
+  },
+  {
+    "station_id": 51479,
+    "name": "Piedmont Natural Gas - Spartanburg",
+    "city": "Spartanburg",
+    "state": "SC",
+    "latitude": 34.94618,
+    "longitude": -81.996914,
+    "price_per_gallon": 3.81
+  },
+  {
+    "station_id": 51599,
+    "name": "Clean Energy - Palm Desert Burrtec Waste",
+    "city": "Palm Desert",
+    "state": "CA",
+    "latitude": 33.744086,
+    "longitude": -116.358858,
+    "price_per_gallon": 4.48
+  },
+  {
+    "station_id": 51600,
+    "name": "ReFuel Sacramento",
+    "city": "Sacramento",
+    "state": "CA",
+    "latitude": 38.525206,
+    "longitude": -121.387843,
+    "price_per_gallon": 4.37
+  },
+  {
+    "station_id": 51604,
+    "name": "Clean Energy - Orlando Airport",
+    "city": "Orlando",
+    "state": "FL",
+    "latitude": 28.442255,
+    "longitude": -81.300819,
+    "price_per_gallon": 4.38
+  },
+  {
+    "station_id": 51610,
+    "name": "Con Edison - Eastview Service Center",
+    "city": "Valhalla",
+    "state": "NY",
+    "latitude": 41.08183,
+    "longitude": -73.825183,
+    "price_per_gallon": 3.03
+  },
+  {
+    "station_id": 51621,
+    "name": "Athens Utilities Board",
+    "city": "Athens",
+    "state": "TN",
+    "latitude": 35.467829,
+    "longitude": -84.644781,
+    "price_per_gallon": 3.67
+  },
+  {
+    "station_id": 51876,
+    "name": "City of Augusta",
+    "city": "Hephzibah",
+    "state": "GA",
+    "latitude": 33.392931,
+    "longitude": -82.11295,
+    "price_per_gallon": 3.79
+  },
+  {
+    "station_id": 51878,
+    "name": "CNG Source Fueling",
+    "city": "Indianapolis",
+    "state": "IN",
+    "latitude": 39.754424,
+    "longitude": -86.047376,
+    "price_per_gallon": 3.8
+  },
+  {
+    "station_id": 51881,
+    "name": "City of Columbus - CNG North",
+    "city": "Columbus",
+    "state": "OH",
+    "latitude": 40.059311,
+    "longitude": -82.956922,
+    "price_per_gallon": 3.35
+  },
+  {
+    "station_id": 51885,
+    "name": "Kwik Trip #887",
+    "city": "Appleton",
+    "state": "WI",
+    "latitude": 44.288733,
+    "longitude": -88.477893,
+    "price_per_gallon": 4.34
+  },
+  {
+    "station_id": 52202,
+    "name": "Chevron CNG Station 387967",
+    "city": "Perry",
+    "state": "GA",
+    "latitude": 32.49244,
+    "longitude": -83.7404,
+    "price_per_gallon": 3.14
+  },
+  {
+    "station_id": 52203,
+    "name": "Ozinga Energy - Des Plaines",
+    "city": "Des Plaines",
+    "state": "IL",
+    "latitude": 42.012901,
+    "longitude": -87.924312,
+    "price_per_gallon": 3.79
+  },
+  {
+    "station_id": 52206,
+    "name": "Chevron CNG Station 387982",
+    "city": "Vincennes",
+    "state": "IN",
+    "latitude": 38.65087,
+    "longitude": -87.5306,
+    "price_per_gallon": 2.91
+  },
+  {
+    "station_id": 52207,
+    "name": "CNG Services LLC",
+    "city": "Wichita",
+    "state": "KS",
+    "latitude": 37.737099,
+    "longitude": -97.32375,
+    "price_per_gallon": 3.42
+  },
+  {
+    "station_id": 52211,
+    "name": "Memphis Light, Gas and Water - South Center",
+    "city": "Memphis",
+    "state": "TN",
+    "latitude": 35.066272,
+    "longitude": -90.052743,
+    "price_per_gallon": 4.27
+  },
+  {
+    "station_id": 52214,
+    "name": "Chevron CNG Station 387984",
+    "city": "Waco",
+    "state": "TX",
+    "latitude": 31.4995,
+    "longitude": -97.1734,
+    "price_per_gallon": 4.13
+  },
+  {
+    "station_id": 52215,
+    "name": "US Energy - Green Bay",
+    "city": "Green Bay",
+    "state": "WI",
+    "latitude": 44.548802,
+    "longitude": -88.04744,
+    "price_per_gallon": 3.71
+  },
+  {
+    "station_id": 52216,
+    "name": "Kwik Trip #456",
+    "city": "Verona",
+    "state": "WI",
+    "latitude": 42.97098,
+    "longitude": -89.51307,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 52482,
+    "name": "City of Athens - Gas Department",
+    "city": "Athens",
+    "state": "AL",
+    "latitude": 34.818951,
+    "longitude": -86.942404,
+    "price_per_gallon": 4.48
+  },
+  {
+    "station_id": 52484,
+    "name": "Kwik Star #490",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "latitude": 42.470441,
+    "longitude": -92.447165,
+    "price_per_gallon": 3.05
+  },
+  {
+    "station_id": 52485,
+    "name": "Ozinga Energy - Lumber St",
+    "city": "Chicago",
+    "state": "IL",
+    "latitude": 41.852403,
+    "longitude": -87.642494,
+    "price_per_gallon": 3.82
+  },
+  {
+    "station_id": 52486,
+    "name": "Ozinga Energy - Mokena",
+    "city": "Mokena",
+    "state": "IL",
+    "latitude": 41.54841,
+    "longitude": -87.85004,
+    "price_per_gallon": 2.93
+  },
+  {
+    "station_id": 52487,
+    "name": "Chevron CNG Station 387999",
+    "city": "Indianapolis",
+    "state": "IN",
+    "latitude": 39.76149,
+    "longitude": -86.009,
+    "price_per_gallon": 4.16
+  },
+  {
+    "station_id": 52488,
+    "name": "Chevron CNG Station 387956",
+    "city": "Lafayette",
+    "state": "IN",
+    "latitude": 40.3750267719128,
+    "longitude": -86.7783,
+    "price_per_gallon": 4.48
+  },
+  {
+    "station_id": 52490,
+    "name": "Kwik Trip #681",
+    "city": "St. Michael",
+    "state": "MN",
+    "latitude": 45.217806,
+    "longitude": -93.598222,
+    "price_per_gallon": 3.25
+  },
+  {
+    "station_id": 52495,
+    "name": "River Valley Transit",
+    "city": "Williamsport",
+    "state": "PA",
+    "latitude": 41.237004,
+    "longitude": -77.038235,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 52496,
+    "name": "Love's Travel Stop #294",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.645801,
+    "longitude": -96.840907,
+    "price_per_gallon": 4.23
+  },
+  {
+    "station_id": 52497,
+    "name": "Love's Travel Stop #281",
+    "city": "Fort Worth",
+    "state": "TX",
+    "latitude": 32.598649,
+    "longitude": -97.317542,
+    "price_per_gallon": 4.48
+  },
+  {
+    "station_id": 52498,
+    "name": "Love's Travel Stop #315",
+    "city": "Houston",
+    "state": "TX",
+    "latitude": 29.797098,
+    "longitude": -95.267537,
+    "price_per_gallon": 4.27
+  },
+  {
+    "station_id": 52499,
+    "name": "Love's Travel Stop #234",
+    "city": "Katy",
+    "state": "TX",
+    "latitude": 29.779825,
+    "longitude": -95.881549,
+    "price_per_gallon": 4.35
+  },
+  {
+    "station_id": 52500,
+    "name": "US Energy - Longview",
+    "city": "Longview",
+    "state": "TX",
+    "latitude": 32.4532,
+    "longitude": -94.706348,
+    "price_per_gallon": 4.03
+  },
+  {
+    "station_id": 52501,
+    "name": "Love's Travel Stop #486",
+    "city": "Choctaw",
+    "state": "OK",
+    "latitude": 35.395749,
+    "longitude": -97.267868,
+    "price_per_gallon": 3.39
+  },
+  {
+    "station_id": 52502,
+    "name": "Love's Travel Stop #283",
+    "city": "Rockwall",
+    "state": "TX",
+    "latitude": 32.917907,
+    "longitude": -96.419128,
+    "price_per_gallon": 4.05
+  },
+  {
+    "station_id": 52503,
+    "name": "Love's Travel Stop #242",
+    "city": "Von Ormy",
+    "state": "TX",
+    "latitude": 29.31101,
+    "longitude": -98.617826,
+    "price_per_gallon": 3.48
+  },
+  {
+    "station_id": 52506,
+    "name": "Kwik Trip #871",
+    "city": "Oshkosh",
+    "state": "WI",
+    "latitude": 44.100798,
+    "longitude": -88.541833,
+    "price_per_gallon": 3.3
+  },
+  {
+    "station_id": 52681,
+    "name": "Chevron CNG Station 387941",
+    "city": "Jonesboro",
+    "state": "AR",
+    "latitude": 35.82186,
+    "longitude": -90.5706,
+    "price_per_gallon": 2.86
+  },
+  {
+    "station_id": 52685,
+    "name": "Trillium",
+    "city": "Tampa",
+    "state": "FL",
+    "latitude": 27.90225,
+    "longitude": -82.40164,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 52686,
+    "name": "DeKalb County - Central",
+    "city": "Decatur",
+    "state": "GA",
+    "latitude": 33.771564,
+    "longitude": -84.239687,
+    "price_per_gallon": 3.73
+  },
+  {
+    "station_id": 52687,
+    "name": "Clean Energy - ABC Disposal",
+    "city": "New Bedford",
+    "state": "MA",
+    "latitude": 41.662033,
+    "longitude": -70.949338,
+    "price_per_gallon": 3.32
+  },
+  {
+    "station_id": 52688,
+    "name": "Clean Energy - Pembroke",
+    "city": "Pembroke",
+    "state": "NH",
+    "latitude": 43.174856,
+    "longitude": -71.485967,
+    "price_per_gallon": 3.71
+  },
+  {
+    "station_id": 52691,
+    "name": "American Natural - Energy Centre",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "latitude": 40.431028,
+    "longitude": -80.001116,
+    "price_per_gallon": 3.78
+  },
+  {
+    "station_id": 52695,
+    "name": "CNG America - Bells Silver Creek - Sinclair",
+    "city": "Park City",
+    "state": "UT",
+    "latitude": 40.733902,
+    "longitude": -111.499306,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 52992,
+    "name": "Clean N' Green",
+    "city": "Phoenix",
+    "state": "AZ",
+    "latitude": 33.690096,
+    "longitude": -112.105899,
+    "price_per_gallon": 3.08
+  },
+  {
+    "station_id": 52999,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Apex",
+    "state": "NC",
+    "latitude": 35.723225,
+    "longitude": -78.83186,
+    "price_per_gallon": 4.08
+  },
+  {
+    "station_id": 53000,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "latitude": 35.848953,
+    "longitude": -79.08542,
+    "price_per_gallon": 3.12
+  },
+  {
+    "station_id": 53003,
+    "name": "Kwik Trip #334",
+    "city": "Mankato",
+    "state": "MN",
+    "latitude": 44.18791,
+    "longitude": -94.012676,
+    "price_per_gallon": 2.89
+  },
+  {
+    "station_id": 53005,
+    "name": "Wayne Township Landfill",
+    "city": "Lock Haven",
+    "state": "PA",
+    "latitude": 41.15737780840639,
+    "longitude": -77.34912278042604,
+    "price_per_gallon": 3.58
+  },
+  {
+    "station_id": 53006,
+    "name": "Dandy Mini-Mart",
+    "city": "Sayre",
+    "state": "PA",
+    "latitude": 41.966439,
+    "longitude": -76.534294,
+    "price_per_gallon": 3.9
+  },
+  {
+    "station_id": 53007,
+    "name": "Kwik Trip #696",
+    "city": "Baldwin",
+    "state": "WI",
+    "latitude": 44.941101,
+    "longitude": -92.373596,
+    "price_per_gallon": 3.17
+  },
+  {
+    "station_id": 53008,
+    "name": "Kwik Trip #326",
+    "city": "Janesville",
+    "state": "WI",
+    "latitude": 42.634544,
+    "longitude": -89.030406,
+    "price_per_gallon": 2.88
+  },
+  {
+    "station_id": 53312,
+    "name": "City of Blythe - Palo Verde Valley Transit",
+    "city": "Blythe",
+    "state": "CA",
+    "latitude": 33.603063,
+    "longitude": -114.598023,
+    "price_per_gallon": 2.95
+  },
+  {
+    "station_id": 53316,
+    "name": "Gaubert Food Marts Inc",
+    "city": "Houma",
+    "state": "LA",
+    "latitude": 29.577119,
+    "longitude": -90.710145,
+    "price_per_gallon": 3.09
+  },
+  {
+    "station_id": 53320,
+    "name": "Sapp Bros Travel Center",
+    "city": "Lincoln",
+    "state": "NE",
+    "latitude": 40.862915,
+    "longitude": -96.637825,
+    "price_per_gallon": 3.3
+  },
+  {
+    "station_id": 53323,
+    "name": "CNG of New Holland",
+    "city": "New Holland",
+    "state": "PA",
+    "latitude": 40.087252,
+    "longitude": -76.095113,
+    "price_per_gallon": 3.08
+  },
+  {
+    "station_id": 53324,
+    "name": "CNG Fuel LLC",
+    "city": "Shippenville",
+    "state": "PA",
+    "latitude": 41.228814,
+    "longitude": -79.431538,
+    "price_per_gallon": 4.43
+  },
+  {
+    "station_id": 53327,
+    "name": "Kwik Trip #499",
+    "city": "New Berlin",
+    "state": "WI",
+    "latitude": 42.94468,
+    "longitude": -88.110351,
+    "price_per_gallon": 4.27
+  },
+  {
+    "station_id": 53619,
+    "name": "Cullman - Jefferson Gas",
+    "city": "Hanceville",
+    "state": "AL",
+    "latitude": 34.132047,
+    "longitude": -86.815607,
+    "price_per_gallon": 3.03
+  },
+  {
+    "station_id": 53625,
+    "name": "Trillium",
+    "city": "Tulare",
+    "state": "CA",
+    "latitude": 36.182337,
+    "longitude": -119.330196,
+    "price_per_gallon": 2.95
+  },
+  {
+    "station_id": 53626,
+    "name": "Chevron CNG Station 387966",
+    "city": "Orlando",
+    "state": "FL",
+    "latitude": 28.57725,
+    "longitude": -81.4221,
+    "price_per_gallon": 3.97
+  },
+  {
+    "station_id": 53627,
+    "name": "American Fueling Systems - Covington Green Fuels Facility",
+    "city": "Covington",
+    "state": "GA",
+    "latitude": 33.618609,
+    "longitude": -83.843952,
+    "price_per_gallon": 3.32
+  },
+  {
+    "station_id": 53630,
+    "name": "Chevron CNG Station 387947",
+    "city": "Charlotte",
+    "state": "NC",
+    "latitude": 35.12223,
+    "longitude": -80.9435,
+    "price_per_gallon": 3.76
+  },
+  {
+    "station_id": 53631,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Durham",
+    "state": "NC",
+    "latitude": 36.052683,
+    "longitude": -78.873913,
+    "price_per_gallon": 3.06
+  },
+  {
+    "station_id": 53633,
+    "name": "Trillium - Mirabito",
+    "city": "Kirkwood",
+    "state": "NY",
+    "latitude": 42.102397,
+    "longitude": -75.839707,
+    "price_per_gallon": 3.41
+  },
+  {
+    "station_id": 53637,
+    "name": "Chevron CNG Station 387935",
+    "city": "Amarillo",
+    "state": "TX",
+    "latitude": 35.18998,
+    "longitude": -101.706,
+    "price_per_gallon": 3.37
+  },
+  {
+    "station_id": 53641,
+    "name": "Chevron CNG Station#387969Chevron CNG Station 387969",
+    "city": "Rosenberg",
+    "state": "TX",
+    "latitude": 29.5608707689688,
+    "longitude": -95.888,
+    "price_per_gallon": 3.85
+  },
+  {
+    "station_id": 53642,
+    "name": "Chevron CNG Station 387976",
+    "city": "Sweetwater",
+    "state": "TX",
+    "latitude": 32.44885,
+    "longitude": -100.44,
+    "price_per_gallon": 4.41
+  },
+  {
+    "station_id": 53645,
+    "name": "Clean Energy - Oak Creek",
+    "city": "Oak Creek",
+    "state": "WI",
+    "latitude": 42.914519,
+    "longitude": -87.914352,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 53646,
+    "name": "Waste Management - Charleston",
+    "city": "Charleston",
+    "state": "WV",
+    "latitude": 38.35917,
+    "longitude": -81.62868,
+    "price_per_gallon": 4.48
+  },
+  {
+    "station_id": 53751,
+    "name": "Kwik Star #732",
+    "city": "Waterloo",
+    "state": "IA",
+    "latitude": 42.488499,
+    "longitude": -92.367561,
+    "price_per_gallon": 3.37
+  },
+  {
+    "station_id": 53754,
+    "name": "Freedom Fuels",
+    "city": "Shreveport",
+    "state": "LA",
+    "latitude": 32.441468,
+    "longitude": -93.765558,
+    "price_per_gallon": 3.13
+  },
+  {
+    "station_id": 53759,
+    "name": "Clean Energy - Lee's Summit School District",
+    "city": "Lee's Summit",
+    "state": "MO",
+    "latitude": 38.89357,
+    "longitude": -94.36045,
+    "price_per_gallon": 3.1
+  },
+  {
+    "station_id": 53760,
+    "name": "Clean N' Green",
+    "city": "Jackson",
+    "state": "MS",
+    "latitude": 32.34776,
+    "longitude": -90.247321,
+    "price_per_gallon": 3.08
+  },
+  {
+    "station_id": 53761,
+    "name": "Clean N' Green",
+    "city": "Gastonia",
+    "state": "NC",
+    "latitude": 35.279545,
+    "longitude": -81.120447,
+    "price_per_gallon": 4.5
+  },
+  {
+    "station_id": 53763,
+    "name": "Trillium - Speedway LLC",
+    "city": "Mt. Vernon",
+    "state": "OH",
+    "latitude": 40.387298,
+    "longitude": -82.486446,
+    "price_per_gallon": 3.36
+  },
+  {
+    "station_id": 53766,
+    "name": "Clean N' Green",
+    "city": "Pen Argyl",
+    "state": "PA",
+    "latitude": 40.860729,
+    "longitude": -75.27151,
+    "price_per_gallon": 3.47
+  },
+  {
+    "station_id": 53767,
+    "name": "Clean N' Green",
+    "city": "Nashville",
+    "state": "TN",
+    "latitude": 36.081876,
+    "longitude": -86.686034,
+    "price_per_gallon": 3.88
+  },
+  {
+    "station_id": 53775,
+    "name": "Freedom CNG",
+    "city": "Houston",
+    "state": "TX",
+    "latitude": 29.94421671551664,
+    "longitude": -95.52226647486879,
+    "price_per_gallon": 4.43
+  },
+  {
+    "station_id": 53777,
+    "name": "Kwik Trip #416",
+    "city": "De Pere",
+    "state": "WI",
+    "latitude": 44.453927,
+    "longitude": -87.995461,
+    "price_per_gallon": 2.94
+  },
+  {
+    "station_id": 53780,
+    "name": "Kwik Trip #422",
+    "city": "Oak Creek",
+    "state": "WI",
+    "latitude": 42.87166,
+    "longitude": -87.933821,
+    "price_per_gallon": 3.51
+  },
+  {
+    "station_id": 53781,
+    "name": "Kwik Trip #202",
+    "city": "Plover",
+    "state": "WI",
+    "latitude": 44.427888,
+    "longitude": -89.515248,
+    "price_per_gallon": 4.06
+  },
+  {
+    "station_id": 53782,
+    "name": "Kwik Trip #204",
+    "city": "Wausau",
+    "state": "WI",
+    "latitude": 44.91394,
+    "longitude": -89.64836,
+    "price_per_gallon": 3.2
+  },
+  {
+    "station_id": 60039,
+    "name": "Chevron CNG Station 387980",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "latitude": 40.9601357143792,
+    "longitude": -85.1664,
+    "price_per_gallon": 4.18
+  },
+  {
+    "station_id": 60040,
+    "name": "Chevron CNG Station 387990",
+    "city": "Greensburg",
+    "state": "IN",
+    "latitude": 39.35739,
+    "longitude": -85.5103,
+    "price_per_gallon": 3.34
+  },
+  {
+    "station_id": 60043,
+    "name": "Chevron CNG Station 387974",
+    "city": "Seymour",
+    "state": "IN",
+    "latitude": 38.9588,
+    "longitude": -85.8379,
+    "price_per_gallon": 3.26
+  },
+  {
+    "station_id": 60045,
+    "name": "Chevron CNG Station 387955",
+    "city": "Dayton",
+    "state": "OH",
+    "latitude": 39.81954,
+    "longitude": -84.1805,
+    "price_per_gallon": 4.15
+  },
+  {
+    "station_id": 60046,
+    "name": "Chevron CNG Station 387978",
+    "city": "Findlay",
+    "state": "OH",
+    "latitude": 41.08995,
+    "longitude": -83.6391,
+    "price_per_gallon": 3.47
+  },
+  {
+    "station_id": 60084,
+    "name": "Love's Travel Stop #332",
+    "city": "Burbank",
+    "state": "OH",
+    "latitude": 40.995903,
+    "longitude": -81.993874,
+    "price_per_gallon": 4.47
+  },
+  {
+    "station_id": 60085,
+    "name": "Love's Travel Stop #200",
+    "city": "Amarillo",
+    "state": "TX",
+    "latitude": 35.191937,
+    "longitude": -101.760916,
+    "price_per_gallon": 3.6
+  },
+  {
+    "station_id": 60087,
+    "name": "Shop A Lott #20",
+    "city": "Natchitoches",
+    "state": "LA",
+    "latitude": 31.784139,
+    "longitude": -93.08731,
+    "price_per_gallon": 3.22
+  },
+  {
+    "station_id": 60113,
+    "name": "Clean Energy - City of Columbia",
+    "city": "Columbia",
+    "state": "MO",
+    "latitude": 38.971499,
+    "longitude": -92.294316,
+    "price_per_gallon": 4.21
+  },
+  {
+    "station_id": 60117,
+    "name": "Chevron CNG Station 387981",
+    "city": "Topeka",
+    "state": "KS",
+    "latitude": 38.9662701239329,
+    "longitude": -95.7005,
+    "price_per_gallon": 4.45
+  },
+  {
+    "station_id": 60119,
+    "name": "Chevron CNG Station 387997",
+    "city": "Houston",
+    "state": "TX",
+    "latitude": 29.81643,
+    "longitude": -95.2561,
+    "price_per_gallon": 3.87
+  },
+  {
+    "station_id": 60157,
+    "name": "Chevron CNG Station 387953",
+    "city": "Lancaster",
+    "state": "NY",
+    "latitude": 42.92255,
+    "longitude": -78.6284,
+    "price_per_gallon": 3.65
+  },
+  {
+    "station_id": 60208,
+    "name": "Spire - Lambert Airport",
+    "city": "St. Ann",
+    "state": "MO",
+    "latitude": 38.73912725162441,
+    "longitude": -90.3882460343933,
+    "price_per_gallon": 3.6
+  },
+  {
+    "station_id": 60210,
+    "name": "Enbridge Gas - JR's Truck Stop",
+    "city": "Cedar City",
+    "state": "UT",
+    "latitude": 37.72495,
+    "longitude": -113.056978,
+    "price_per_gallon": 3.47
+  },
+  {
+    "station_id": 60213,
+    "name": "Trillium - Magic Truck Stop",
+    "city": "Atlanta",
+    "state": "GA",
+    "latitude": 33.76147911463073,
+    "longitude": -84.536192390213,
+    "price_per_gallon": 3.54
+  },
+  {
+    "station_id": 60253,
+    "name": "Clean Energy - Tolleson",
+    "city": "Tolleson",
+    "state": "AZ",
+    "latitude": 33.440305,
+    "longitude": -112.23895,
+    "price_per_gallon": 3.12
+  },
+  {
+    "station_id": 60257,
+    "name": "Chevron CNG Station 387991",
+    "city": "Harrold",
+    "state": "TX",
+    "latitude": 34.07142,
+    "longitude": -99.0094,
+    "price_per_gallon": 4.42
+  },
+  {
+    "station_id": 60258,
+    "name": "Trillium - San Jose Junction",
+    "city": "San Clara",
+    "state": "CA",
+    "latitude": 37.386235,
+    "longitude": -121.917452,
+    "price_per_gallon": 4.07
+  },
+  {
+    "station_id": 60260,
+    "name": "Trillium - A&R Transport",
+    "city": "Fort Worth",
+    "state": "TX",
+    "latitude": 32.824385,
+    "longitude": -97.336689,
+    "price_per_gallon": 3.1
+  },
+  {
+    "station_id": 60261,
+    "name": "Chevron CNG Station 387945",
+    "city": "Kerrville",
+    "state": "TX",
+    "latitude": 30.0774,
+    "longitude": -99.1073,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 60263,
+    "name": "Kentuckiana Cleanfuel",
+    "city": "Louisville",
+    "state": "KY",
+    "latitude": 38.15677331200423,
+    "longitude": -85.68036823809814,
+    "price_per_gallon": 3.5
+  },
+  {
+    "station_id": 60265,
+    "name": "US Energy - Fairless Hills",
+    "city": "Fallsington",
+    "state": "PA",
+    "latitude": 40.191991,
+    "longitude": -74.794534,
+    "price_per_gallon": 3.18
+  },
+  {
+    "station_id": 60266,
+    "name": "Clean Energy - Fontana Truck Stop",
+    "city": "Fontana",
+    "state": "CA",
+    "latitude": 34.07117,
+    "longitude": -117.494601,
+    "price_per_gallon": 3.28
+  },
+  {
+    "station_id": 60267,
+    "name": "Clean Energy - Pontoon Beach Flying J #645",
+    "city": "Pontoon Beach",
+    "state": "IL",
+    "latitude": 38.76094,
+    "longitude": -90.066043,
+    "price_per_gallon": 2.92
+  },
+  {
+    "station_id": 60681,
+    "name": "Chevron CNG Station 387968",
+    "city": "Phoenix",
+    "state": "AZ",
+    "latitude": 33.43998,
+    "longitude": -112.197,
+    "price_per_gallon": 3.62
+  },
+  {
+    "station_id": 60682,
+    "name": "New Jersey Natural Gas - Middletown Public Works",
+    "city": "Middletown",
+    "state": "NJ",
+    "latitude": 40.387923,
+    "longitude": -74.085991,
+    "price_per_gallon": 3.27
+  },
+  {
+    "station_id": 60684,
+    "name": "New Jersey Natural Gas - Shore Point Distributing Co",
+    "city": "Freehold",
+    "state": "NJ",
+    "latitude": 40.247319,
+    "longitude": -74.24322,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 60685,
+    "name": "New Jersey Natural Gas - Waste Management",
+    "city": "Toms River",
+    "state": "NJ",
+    "latitude": 39.989815,
+    "longitude": -74.258336,
+    "price_per_gallon": 4.29
+  },
+  {
+    "station_id": 60713,
+    "name": "Trillium - Honda Parkway",
+    "city": "Marysville",
+    "state": "OH",
+    "latitude": 40.27821,
+    "longitude": -83.530973,
+    "price_per_gallon": 3.5
+  },
+  {
+    "station_id": 60818,
+    "name": "Arkansas Oklahoma Gas Corp",
+    "city": "Fort Smith",
+    "state": "AR",
+    "latitude": 35.335799,
+    "longitude": -94.384145,
+    "price_per_gallon": 3.22
+  },
+  {
+    "station_id": 60836,
+    "name": "Lafayette Consolidated Government",
+    "city": "Lafayette",
+    "state": "LA",
+    "latitude": 30.209862,
+    "longitude": -92.002378,
+    "price_per_gallon": 3.44
+  },
+  {
+    "station_id": 60841,
+    "name": "Norwich Public Utilities",
+    "city": "Norwich",
+    "state": "CT",
+    "latitude": 41.554634,
+    "longitude": -72.107836,
+    "price_per_gallon": 2.9
+  },
+  {
+    "station_id": 61161,
+    "name": "Clean Energy - City of Commerce",
+    "city": "Commerce",
+    "state": "CA",
+    "latitude": 34.002506,
+    "longitude": -118.170811,
+    "price_per_gallon": 4.08
+  },
+  {
+    "station_id": 61167,
+    "name": "Clean Energy - Fort Worth South",
+    "city": "Fort Worth",
+    "state": "TX",
+    "latitude": 32.627591,
+    "longitude": -97.314361,
+    "price_per_gallon": 3.83
+  },
+  {
+    "station_id": 61168,
+    "name": "Clean Energy - Mesquite",
+    "city": "Mesquite",
+    "state": "TX",
+    "latitude": 32.789008,
+    "longitude": -96.652678,
+    "price_per_gallon": 3.48
+  },
+  {
+    "station_id": 61169,
+    "name": "CNG 4 America - Baytown",
+    "city": "Cove",
+    "state": "TX",
+    "latitude": 29.830522,
+    "longitude": -94.804667,
+    "price_per_gallon": 4.39
+  },
+  {
+    "station_id": 61179,
+    "name": "Lewisville CNG",
+    "city": "Lewisville",
+    "state": "OH",
+    "latitude": 39.763889,
+    "longitude": -81.20266,
+    "price_per_gallon": 2.96
+  },
+  {
+    "station_id": 61192,
+    "name": "New Concord CNG",
+    "city": "New Concord",
+    "state": "OH",
+    "latitude": 39.983364,
+    "longitude": -81.7327,
+    "price_per_gallon": 4.47
+  },
+  {
+    "station_id": 61194,
+    "name": "IGS CNG Services - Girard - Mr. Fuel",
+    "city": "Girard",
+    "state": "OH",
+    "latitude": 41.138468,
+    "longitude": -80.71885,
+    "price_per_gallon": 4.46
+  },
+  {
+    "station_id": 61195,
+    "name": "IGS CNG Services - Marengo",
+    "city": "Marengo",
+    "state": "OH",
+    "latitude": 40.370911,
+    "longitude": -82.829363,
+    "price_per_gallon": 3.0
+  },
+  {
+    "station_id": 61196,
+    "name": "Blue Water Area Transit",
+    "city": "Marine City",
+    "state": "MI",
+    "latitude": 42.713827,
+    "longitude": -82.500406,
+    "price_per_gallon": 3.0
+  },
+  {
+    "station_id": 61206,
+    "name": "IGS CNG Services - Findlay - Speedway",
+    "city": "Findlay",
+    "state": "OH",
+    "latitude": 41.086807,
+    "longitude": -83.657436,
+    "price_per_gallon": 4.35
+  },
+  {
+    "station_id": 61343,
+    "name": "Blue Water Area Transit",
+    "city": "Capac",
+    "state": "MI",
+    "latitude": 43.024298,
+    "longitude": -82.932476,
+    "price_per_gallon": 3.7
+  },
+  {
+    "station_id": 61367,
+    "name": "Clean Energy - Napa Petroleum",
+    "city": "Napa",
+    "state": "CA",
+    "latitude": 38.321254,
+    "longitude": -122.310848,
+    "price_per_gallon": 3.09
+  },
+  {
+    "station_id": 61368,
+    "name": "Clean Energy - ReFuel San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "latitude": 37.360196,
+    "longitude": -121.903733,
+    "price_per_gallon": 4.25
+  },
+  {
+    "station_id": 61369,
+    "name": "Clean Energy - Lathrop Food Express Inc",
+    "city": "Lathrop",
+    "state": "CA",
+    "latitude": 37.788561,
+    "longitude": -121.288932,
+    "price_per_gallon": 4.33
+  },
+  {
+    "station_id": 61371,
+    "name": "US Energy - Sturtevant",
+    "city": "Sturtevant",
+    "state": "WI",
+    "latitude": 42.728832,
+    "longitude": -87.955196,
+    "price_per_gallon": 3.47
+  },
+  {
+    "station_id": 61372,
+    "name": "US Energy - Joliet",
+    "city": "Joliet",
+    "state": "IL",
+    "latitude": 41.490715,
+    "longitude": -88.141163,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 61373,
+    "name": "US Energy - Bolingbrook",
+    "city": "Bolingbrook",
+    "state": "IL",
+    "latitude": 41.682105,
+    "longitude": -88.063841,
+    "price_per_gallon": 3.96
+  },
+  {
+    "station_id": 61387,
+    "name": "Stackhouse CNG",
+    "city": "Orwell",
+    "state": "OH",
+    "latitude": 41.535534,
+    "longitude": -80.844365,
+    "price_per_gallon": 3.3
+  },
+  {
+    "station_id": 61388,
+    "name": "Clean Energy - San Antonio Flying J #737",
+    "city": "San Antonio",
+    "state": "TX",
+    "latitude": 29.446369,
+    "longitude": -98.362307,
+    "price_per_gallon": 3.68
+  },
+  {
+    "station_id": 61447,
+    "name": "PG&E - Martin Service Center",
+    "city": "Daly City",
+    "state": "CA",
+    "latitude": 37.705824,
+    "longitude": -122.411218,
+    "price_per_gallon": 3.24
+  },
+  {
+    "station_id": 61481,
+    "name": "US Energy - Santa Ana",
+    "city": "Santa Ana",
+    "state": "CA",
+    "latitude": 33.745814,
+    "longitude": -117.84668,
+    "price_per_gallon": 3.87
+  },
+  {
+    "station_id": 61534,
+    "name": "US Energy - Middleton Farmers Co-op Co",
+    "city": "Middleton",
+    "state": "WI",
+    "latitude": 43.09407,
+    "longitude": -89.534911,
+    "price_per_gallon": 3.97
+  },
+  {
+    "station_id": 61537,
+    "name": "Tesei Petroleum",
+    "city": "Madera",
+    "state": "CA",
+    "latitude": 36.950158,
+    "longitude": -120.04964,
+    "price_per_gallon": 3.85
+  },
+  {
+    "station_id": 61611,
+    "name": "US Energy - Indianapolis",
+    "city": "Indianapolis",
+    "state": "IN",
+    "latitude": 39.913404,
+    "longitude": -86.259803,
+    "price_per_gallon": 4.26
+  },
+  {
+    "station_id": 61650,
+    "name": "Sevier County Utility District",
+    "city": "Sevierville",
+    "state": "TN",
+    "latitude": 35.869632,
+    "longitude": -83.540182,
+    "price_per_gallon": 3.72
+  },
+  {
+    "station_id": 61661,
+    "name": "Trillium",
+    "city": "Omaha",
+    "state": "NE",
+    "latitude": 41.161411,
+    "longitude": -96.120182,
+    "price_per_gallon": 2.93
+  },
+  {
+    "station_id": 61707,
+    "name": "Love's Travel Stop #171",
+    "city": "McAlester",
+    "state": "OK",
+    "latitude": 34.907926,
+    "longitude": -95.825663,
+    "price_per_gallon": 4.38
+  },
+  {
+    "station_id": 61853,
+    "name": "First Alt Fuel Inc",
+    "city": "Tyler",
+    "state": "TX",
+    "latitude": 32.354553,
+    "longitude": -95.302495,
+    "price_per_gallon": 4.41
+  },
+  {
+    "station_id": 61868,
+    "name": "Piedmont Natural Gas - Greensboro",
+    "city": "Greensboro",
+    "state": "NC",
+    "latitude": 36.02452,
+    "longitude": -79.797974,
+    "price_per_gallon": 4.26
+  },
+  {
+    "station_id": 61871,
+    "name": "Hutch's C-Store #120",
+    "city": "Sayre",
+    "state": "OK",
+    "latitude": 35.309665,
+    "longitude": -99.631741,
+    "price_per_gallon": 2.9
+  },
+  {
+    "station_id": 62063,
+    "name": "CNGnGo",
+    "city": "Pryor Creek",
+    "state": "OK",
+    "latitude": 36.249164,
+    "longitude": -95.333829,
+    "price_per_gallon": 3.79
+  },
+  {
+    "station_id": 62065,
+    "name": "OnCue #116",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.536179,
+    "longitude": -97.587006,
+    "price_per_gallon": 4.33
+  },
+  {
+    "station_id": 62105,
+    "name": "Sapphire Gas Solutions",
+    "city": "El Centro",
+    "state": "CA",
+    "latitude": 32.794671,
+    "longitude": -115.539473,
+    "price_per_gallon": 2.9
+  },
+  {
+    "station_id": 62106,
+    "name": "US Energy - Carthage",
+    "city": "Carthage",
+    "state": "TX",
+    "latitude": 32.181782,
+    "longitude": -94.334174,
+    "price_per_gallon": 3.83
+  },
+  {
+    "station_id": 62108,
+    "name": "St. Cloud Metro Bus",
+    "city": "St. Cloud",
+    "state": "MN",
+    "latitude": 45.575899,
+    "longitude": -94.149195,
+    "price_per_gallon": 4.47
+  },
+  {
+    "station_id": 62112,
+    "name": "IGS CNG Services - City of Dayton",
+    "city": "Dayton",
+    "state": "OH",
+    "latitude": 39.771034,
+    "longitude": -84.165929,
+    "price_per_gallon": 3.8
+  },
+  {
+    "station_id": 62230,
+    "name": "Muncie Sanitary District",
+    "city": "Muncie",
+    "state": "IN",
+    "latitude": 40.20875,
+    "longitude": -85.376303,
+    "price_per_gallon": 4.01
+  },
+  {
+    "station_id": 62264,
+    "name": "Piedmont Natural Gas - Nashville",
+    "city": "Nashville",
+    "state": "TN",
+    "latitude": 36.1425,
+    "longitude": -86.722855,
+    "price_per_gallon": 4.13
+  },
+  {
+    "station_id": 62266,
+    "name": "Mannford Compressed Natural Gas",
+    "city": "Mannford",
+    "state": "OK",
+    "latitude": 36.127057,
+    "longitude": -96.352955,
+    "price_per_gallon": 3.45
+  },
+  {
+    "station_id": 62268,
+    "name": "Sparq - Trinidad",
+    "city": "Trinidad",
+    "state": "CO",
+    "latitude": 37.183969,
+    "longitude": -104.499646,
+    "price_per_gallon": 3.45
+  },
+  {
+    "station_id": 62313,
+    "name": "Oklahoma City Solid Waste Division",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.58558,
+    "longitude": -97.58744,
+    "price_per_gallon": 3.09
+  },
+  {
+    "station_id": 62382,
+    "name": "Seaboard Energy",
+    "city": "Guymon",
+    "state": "OK",
+    "latitude": 36.70659580000002,
+    "longitude": -101.4432073,
+    "price_per_gallon": 4.45
+  },
+  {
+    "station_id": 62410,
+    "name": "Chevron CNG Station 388000",
+    "city": "Jacksonville",
+    "state": "FL",
+    "latitude": 30.40993,
+    "longitude": -81.5588,
+    "price_per_gallon": 2.96
+  },
+  {
+    "station_id": 62411,
+    "name": "Chevron CNG Station 387940",
+    "city": "Jacksonville",
+    "state": "FL",
+    "latitude": 30.18685,
+    "longitude": -81.5663,
+    "price_per_gallon": 3.85
+  },
+  {
+    "station_id": 62443,
+    "name": "All American Waste",
+    "city": "New Haven",
+    "state": "CT",
+    "latitude": 41.294864,
+    "longitude": -72.899122,
+    "price_per_gallon": 3.08
+  },
+  {
+    "station_id": 62451,
+    "name": "Chevron CNG Station 387939",
+    "city": "Canton",
+    "state": "OH",
+    "latitude": 40.78319,
+    "longitude": -81.4206,
+    "price_per_gallon": 3.95
+  },
+  {
+    "station_id": 62454,
+    "name": "Chevron CNG Station #387936",
+    "city": "Brock",
+    "state": "TX",
+    "latitude": 32.6984653687007,
+    "longitude": -97.9597,
+    "price_per_gallon": 3.08
+  },
+  {
+    "station_id": 62538,
+    "name": "Chevron CNG Station 387962",
+    "city": "Newport",
+    "state": "TN",
+    "latitude": 35.97255,
+    "longitude": -83.248,
+    "price_per_gallon": 3.41
+  },
+  {
+    "station_id": 62543,
+    "name": "US Energy - Aurora",
+    "city": "Aurora",
+    "state": "CO",
+    "latitude": 39.75968,
+    "longitude": -104.761488,
+    "price_per_gallon": 4.44
+  },
+  {
+    "station_id": 62544,
+    "name": "US Energy - Fort Wayne",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "latitude": 40.989957,
+    "longitude": -85.168267,
+    "price_per_gallon": 2.87
+  },
+  {
+    "station_id": 62545,
+    "name": "US Energy - Gary",
+    "city": "Gary",
+    "state": "IN",
+    "latitude": 41.58805,
+    "longitude": -87.419547,
+    "price_per_gallon": 3.79
+  },
+  {
+    "station_id": 62908,
+    "name": "US Energy - Fredericksburg",
+    "city": "Fredericksburg",
+    "state": "PA",
+    "latitude": 40.45023131319861,
+    "longitude": -76.41577569444274,
+    "price_per_gallon": 4.32
+  },
+  {
+    "station_id": 62909,
+    "name": "US Energy - Smyrna",
+    "city": "Smyrna",
+    "state": "GA",
+    "latitude": 33.8324679,
+    "longitude": -84.4810285,
+    "price_per_gallon": 3.24
+  },
+  {
+    "station_id": 62910,
+    "name": "US Energy - Sanford",
+    "city": "Sanford",
+    "state": "NC",
+    "latitude": 35.458359,
+    "longitude": -79.108203,
+    "price_per_gallon": 4.39
+  },
+  {
+    "station_id": 62911,
+    "name": "US Energy - Tampa",
+    "city": "Tampa",
+    "state": "FL",
+    "latitude": 27.98225685262865,
+    "longitude": -82.36160713393784,
+    "price_per_gallon": 3.85
+  },
+  {
+    "station_id": 62912,
+    "name": "US Energy - Des Moines",
+    "city": "Des Moines",
+    "state": "IA",
+    "latitude": 41.64338,
+    "longitude": -93.603529,
+    "price_per_gallon": 3.77
+  },
+  {
+    "station_id": 62914,
+    "name": "US Energy - St. Louis",
+    "city": "St. Louis",
+    "state": "MO",
+    "latitude": 38.611125,
+    "longitude": -90.193753,
+    "price_per_gallon": 2.85
+  },
+  {
+    "station_id": 62915,
+    "name": "Kwik Trip #210",
+    "city": "Eau Claire",
+    "state": "WI",
+    "latitude": 44.83312,
+    "longitude": -91.44934,
+    "price_per_gallon": 3.1
+  },
+  {
+    "station_id": 62916,
+    "name": "Kwik Star #215",
+    "city": "Davenport",
+    "state": "IA",
+    "latitude": 41.585882,
+    "longitude": -90.573456,
+    "price_per_gallon": 2.94
+  },
+  {
+    "station_id": 62917,
+    "name": "Kwik Trip #306",
+    "city": "Lake Mills",
+    "state": "WI",
+    "latitude": 43.0901406678176,
+    "longitude": -88.9099794873108,
+    "price_per_gallon": 3.74
+  },
+  {
+    "station_id": 62933,
+    "name": "3G CNG",
+    "city": "Paso Robles",
+    "state": "CA",
+    "latitude": 35.6451,
+    "longitude": -120.653671,
+    "price_per_gallon": 4.26
+  },
+  {
+    "station_id": 62996,
+    "name": "Love's Travel Stop #614",
+    "city": "Albuquerque",
+    "state": "NM",
+    "latitude": 35.064935,
+    "longitude": -106.784483,
+    "price_per_gallon": 4.2
+  },
+  {
+    "station_id": 62997,
+    "name": "Love's Travel Stop #553",
+    "city": "Williams",
+    "state": "AZ",
+    "latitude": 35.263617,
+    "longitude": -112.194139,
+    "price_per_gallon": 3.68
+  },
+  {
+    "station_id": 63027,
+    "name": "Kwik Trip #242",
+    "city": "Fond Du Lac",
+    "state": "WI",
+    "latitude": 43.751366,
+    "longitude": -88.462334,
+    "price_per_gallon": 4.11
+  },
+  {
+    "station_id": 63028,
+    "name": "Kwik Trip #673",
+    "city": "Windsor",
+    "state": "WI",
+    "latitude": 43.194047,
+    "longitude": -89.33686,
+    "price_per_gallon": 3.61
+  },
+  {
+    "station_id": 63029,
+    "name": "Kwik Trip #250",
+    "city": "Austin",
+    "state": "MN",
+    "latitude": 43.675892,
+    "longitude": -92.953638,
+    "price_per_gallon": 2.89
+  },
+  {
+    "station_id": 63276,
+    "name": "Chevron CNG Station 387944",
+    "city": "Kansas City",
+    "state": "KS",
+    "latitude": 39.08826,
+    "longitude": -94.7321,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 63277,
+    "name": "Chevron CNG Station 387949",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.69371,
+    "longitude": -96.9102,
+    "price_per_gallon": 4.4
+  },
+  {
+    "station_id": 63278,
+    "name": "Chevron CNG Station 387960",
+    "city": "DeSoto",
+    "state": "TX",
+    "latitude": 32.6242361607116,
+    "longitude": -96.8431,
+    "price_per_gallon": 3.89
+  },
+  {
+    "station_id": 63447,
+    "name": "City of Deming",
+    "city": "Deming",
+    "state": "NM",
+    "latitude": 32.267588,
+    "longitude": -107.774524,
+    "price_per_gallon": 4.21
+  },
+  {
+    "station_id": 63576,
+    "name": "CNG@WORK",
+    "city": "Kansas City",
+    "state": "KS",
+    "latitude": 39.149026,
+    "longitude": -94.617479,
+    "price_per_gallon": 3.12
+  },
+  {
+    "station_id": 63577,
+    "name": "IGS CNG Services - Duchess BP",
+    "city": "Obetz",
+    "state": "OH",
+    "latitude": 39.888256,
+    "longitude": -82.930933,
+    "price_per_gallon": 4.12
+  },
+  {
+    "station_id": 63600,
+    "name": "Sparq - U Pump It",
+    "city": "Garden City",
+    "state": "KS",
+    "latitude": 37.962455,
+    "longitude": -100.846437,
+    "price_per_gallon": 3.99
+  },
+  {
+    "station_id": 63602,
+    "name": "City of Tulsa",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.113892,
+    "longitude": -95.889587,
+    "price_per_gallon": 4.06
+  },
+  {
+    "station_id": 63603,
+    "name": "Bubble City Truck Stop",
+    "city": "Farmington",
+    "state": "NM",
+    "latitude": 36.71838,
+    "longitude": -108.167694,
+    "price_per_gallon": 4.4
+  },
+  {
+    "station_id": 63627,
+    "name": "US Energy - Baltimore",
+    "city": "Baltimore",
+    "state": "MD",
+    "latitude": 39.317115,
+    "longitude": -76.531988,
+    "price_per_gallon": 4.41
+  },
+  {
+    "station_id": 63628,
+    "name": "Kimble Co",
+    "city": "Canton",
+    "state": "OH",
+    "latitude": 40.77312513297591,
+    "longitude": -81.39494492988587,
+    "price_per_gallon": 3.84
+  },
+  {
+    "station_id": 63664,
+    "name": "Clean Energy - Kansas City Fleet Services Division",
+    "city": "Kansas City",
+    "state": "MO",
+    "latitude": 39.13353,
+    "longitude": -94.523119,
+    "price_per_gallon": 4.33
+  },
+  {
+    "station_id": 63665,
+    "name": "OnCue Express #45 - Truck Stop",
+    "city": "Billings",
+    "state": "OK",
+    "latitude": 36.535661,
+    "longitude": -97.33916,
+    "price_per_gallon": 3.05
+  },
+  {
+    "station_id": 63680,
+    "name": "Clean Energy - Houston Valero",
+    "city": "Houston",
+    "state": "TX",
+    "latitude": 29.793882,
+    "longitude": -95.266015,
+    "price_per_gallon": 3.7
+  },
+  {
+    "station_id": 63817,
+    "name": "Freedom CNG",
+    "city": "Gilcrest",
+    "state": "CO",
+    "latitude": 40.289906,
+    "longitude": -104.775176,
+    "price_per_gallon": 3.61
+  },
+  {
+    "station_id": 63992,
+    "name": "Waste Management - Conroe",
+    "city": "Conroe",
+    "state": "TX",
+    "latitude": 30.337826,
+    "longitude": -95.412461,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 64019,
+    "name": "City of Douglas",
+    "city": "Douglas",
+    "state": "GA",
+    "latitude": 31.490414,
+    "longitude": -82.865433,
+    "price_per_gallon": 3.78
+  },
+  {
+    "station_id": 64049,
+    "name": "Colorado Springs Utilities - Freedom CNG",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "latitude": 38.945105,
+    "longitude": -104.724068,
+    "price_per_gallon": 3.76
+  },
+  {
+    "station_id": 64057,
+    "name": "Lancaster County Solid Waste Management Authority",
+    "city": "Lancaster",
+    "state": "PA",
+    "latitude": 40.055995,
+    "longitude": -76.327723,
+    "price_per_gallon": 3.67
+  },
+  {
+    "station_id": 64203,
+    "name": "US Energy - Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "latitude": 35.277382,
+    "longitude": -80.809339,
+    "price_per_gallon": 4.07
+  },
+  {
+    "station_id": 64204,
+    "name": "US Energy - Scranton",
+    "city": "Pittston",
+    "state": "PA",
+    "latitude": 41.315531,
+    "longitude": -75.753889,
+    "price_per_gallon": 3.22
+  },
+  {
+    "station_id": 64208,
+    "name": "Love's Travel Stop #450",
+    "city": "West Memphis",
+    "state": "AR",
+    "latitude": 35.153934,
+    "longitude": -90.138245,
+    "price_per_gallon": 4.09
+  },
+  {
+    "station_id": 64212,
+    "name": "Love's Travel Stop #266",
+    "city": "Ardmore",
+    "state": "OK",
+    "latitude": 34.188212,
+    "longitude": -97.171022,
+    "price_per_gallon": 2.91
+  },
+  {
+    "station_id": 64213,
+    "name": "Love's Travel Stop #255",
+    "city": "Webbers Falls",
+    "state": "OK",
+    "latitude": 35.486391,
+    "longitude": -95.148721,
+    "price_per_gallon": 3.11
+  },
+  {
+    "station_id": 64229,
+    "name": "Mansfield Clean Energy Partners",
+    "city": "Atlanta",
+    "state": "GA",
+    "latitude": 33.916342,
+    "longitude": -84.274911,
+    "price_per_gallon": 3.11
+  },
+  {
+    "station_id": 64318,
+    "name": "CNG Energy Partners - Lake Jackson - Public",
+    "city": "Lake Jackson",
+    "state": "TX",
+    "latitude": 29.026255,
+    "longitude": -95.449404,
+    "price_per_gallon": 4.21
+  },
+  {
+    "station_id": 64516,
+    "name": "Nopetro",
+    "city": "St. Augustine",
+    "state": "FL",
+    "latitude": 29.912117,
+    "longitude": -81.382638,
+    "price_per_gallon": 4.12
+  },
+  {
+    "station_id": 64522,
+    "name": "Trillium",
+    "city": "Pottsville",
+    "state": "PA",
+    "latitude": 40.7249569,
+    "longitude": -76.3171771,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 64694,
+    "name": "Clean Energy - Cedar Bus Co",
+    "city": "Buffalo",
+    "state": "NY",
+    "latitude": 42.938929,
+    "longitude": -78.823213,
+    "price_per_gallon": 4.2
+  },
+  {
+    "station_id": 64759,
+    "name": "Clean Energy - West Sacramento",
+    "city": "West Sacramento",
+    "state": "CA",
+    "latitude": 38.5768706780718,
+    "longitude": -121.5703774259338,
+    "price_per_gallon": 3.73
+  },
+  {
+    "station_id": 64847,
+    "name": "Enbridge Gas North Carolina",
+    "city": "Mills River",
+    "state": "NC",
+    "latitude": 35.3803,
+    "longitude": -82.549408,
+    "price_per_gallon": 3.54
+  },
+  {
+    "station_id": 64938,
+    "name": "Chevron CNG Station 387992",
+    "city": "Higginson",
+    "state": "AR",
+    "latitude": 35.20162,
+    "longitude": -91.7328,
+    "price_per_gallon": 3.07
+  },
+  {
+    "station_id": 65032,
+    "name": "B&H Construction",
+    "city": "Goldsby",
+    "state": "OK",
+    "latitude": 35.1505377,
+    "longitude": -97.479381,
+    "price_per_gallon": 4.37
+  },
+  {
+    "station_id": 65392,
+    "name": "Chevron CNG Station 387971",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "latitude": 43.06222,
+    "longitude": -73.8222,
+    "price_per_gallon": 3.0
+  },
+  {
+    "station_id": 65417,
+    "name": "Piedmont Natural Gas - Anderson",
+    "city": "Anderson",
+    "state": "SC",
+    "latitude": 34.501374,
+    "longitude": -82.684429,
+    "price_per_gallon": 4.07
+  },
+  {
+    "station_id": 65418,
+    "name": "US Energy - Keystone CNG",
+    "city": "Easton",
+    "state": "PA",
+    "latitude": 40.744271,
+    "longitude": -75.218923,
+    "price_per_gallon": 4.28
+  },
+  {
+    "station_id": 65436,
+    "name": "Piedmont Natural Gas",
+    "city": "Duncan",
+    "state": "SC",
+    "latitude": 34.888642,
+    "longitude": -82.159227,
+    "price_per_gallon": 3.53
+  },
+  {
+    "station_id": 65440,
+    "name": "Clean Energy - Jacksonville Transportation Authority",
+    "city": "Jacksonville",
+    "state": "FL",
+    "latitude": 30.331549,
+    "longitude": -81.678282,
+    "price_per_gallon": 3.13
+  },
+  {
+    "station_id": 65442,
+    "name": "Clean Energy - Morongo Basin Transit Authority",
+    "city": "Joshua Tree",
+    "state": "CA",
+    "latitude": 34.13767433851819,
+    "longitude": -116.3033363412781,
+    "price_per_gallon": 3.28
+  },
+  {
+    "station_id": 65444,
+    "name": "Maverik #5230",
+    "city": "Springdale",
+    "state": "AR",
+    "latitude": 36.167392,
+    "longitude": -94.119169,
+    "price_per_gallon": 2.92
+  },
+  {
+    "station_id": 65521,
+    "name": "Chevron CNG Station 387986",
+    "city": "West Valley City",
+    "state": "UT",
+    "latitude": 40.71856,
+    "longitude": -112.019,
+    "price_per_gallon": 4.15
+  },
+  {
+    "station_id": 65522,
+    "name": "Chevron CNG Station 387970",
+    "city": "San Antonio",
+    "state": "TX",
+    "latitude": 29.42073,
+    "longitude": -98.3864,
+    "price_per_gallon": 3.13
+  },
+  {
+    "station_id": 65523,
+    "name": "Chevron CNG Station 387938",
+    "city": "Buttonwillow",
+    "state": "CA",
+    "latitude": 35.400164,
+    "longitude": -119.399727,
+    "price_per_gallon": 3.33
+  },
+  {
+    "station_id": 65538,
+    "name": "Clean Energy - Centre County Recycling & Refuse Authority",
+    "city": "Bellefonte",
+    "state": "PA",
+    "latitude": 40.838387,
+    "longitude": -77.787831,
+    "price_per_gallon": 3.59
+  },
+  {
+    "station_id": 65547,
+    "name": "South Jersey Gas - Wawa #8305",
+    "city": "Paulsboro",
+    "state": "NJ",
+    "latitude": 39.821725,
+    "longitude": -75.240765,
+    "price_per_gallon": 3.43
+  },
+  {
+    "station_id": 65555,
+    "name": "Freedom CNG",
+    "city": "Houston",
+    "state": "TX",
+    "latitude": 29.93069748708124,
+    "longitude": -95.42007737567138,
+    "price_per_gallon": 3.85
+  },
+  {
+    "station_id": 65669,
+    "name": "Kwik Trip #178",
+    "city": "St. Paul",
+    "state": "MN",
+    "latitude": 44.883888,
+    "longitude": -93.03055,
+    "price_per_gallon": 4.48
+  },
+  {
+    "station_id": 65700,
+    "name": "Trillium - San Francisco Airport",
+    "city": "Millbrae",
+    "state": "CA",
+    "latitude": 37.604307,
+    "longitude": -122.375844,
+    "price_per_gallon": 3.3
+  },
+  {
+    "station_id": 65748,
+    "name": "X3Energy",
+    "city": "Greeley",
+    "state": "CO",
+    "latitude": 40.401304,
+    "longitude": -104.868073,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 65752,
+    "name": "Sapp Bros Travel Center",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "latitude": 41.235744,
+    "longitude": -95.88063,
+    "price_per_gallon": 4.22
+  },
+  {
+    "station_id": 65769,
+    "name": "Clean Energy - Atlanta Fulton Industrial Park",
+    "city": "Atlanta",
+    "state": "GA",
+    "latitude": 33.732199,
+    "longitude": -84.574809,
+    "price_per_gallon": 3.18
+  },
+  {
+    "station_id": 65814,
+    "name": "Clean Energy - Aviation CNG",
+    "city": "Inglewood",
+    "state": "CA",
+    "latitude": 33.952886,
+    "longitude": -118.377315,
+    "price_per_gallon": 4.47
+  },
+  {
+    "station_id": 65815,
+    "name": "Clean Energy - Cajalco Expressway",
+    "city": "Perris",
+    "state": "CA",
+    "latitude": 33.839783,
+    "longitude": -117.254204,
+    "price_per_gallon": 2.97
+  },
+  {
+    "station_id": 66310,
+    "name": "Siren Energy",
+    "city": "Midland",
+    "state": "TX",
+    "latitude": 31.94055499274442,
+    "longitude": -102.169801723526,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 66465,
+    "name": "US Energy - Dubois",
+    "city": "Dubois",
+    "state": "PA",
+    "latitude": 41.125042,
+    "longitude": -78.765941,
+    "price_per_gallon": 3.26
+  },
+  {
+    "station_id": 66625,
+    "name": "Clean N' Green",
+    "city": "Santa Maria",
+    "state": "CA",
+    "latitude": 34.919891,
+    "longitude": -120.47825,
+    "price_per_gallon": 3.77
+  },
+  {
+    "station_id": 66757,
+    "name": "EDCO - San Marcos",
+    "city": "San Marcos",
+    "state": "CA",
+    "latitude": 33.14184360343619,
+    "longitude": -117.1925014378204,
+    "price_per_gallon": 4.15
+  },
+  {
+    "station_id": 66761,
+    "name": "EDCO - La Mesa",
+    "city": "La Mesa",
+    "state": "CA",
+    "latitude": 32.77254,
+    "longitude": -117.021643,
+    "price_per_gallon": 4.36
+  },
+  {
+    "station_id": 67071,
+    "name": "US Energy - Kissimmee",
+    "city": "Kissimmee",
+    "state": "FL",
+    "latitude": 28.248652,
+    "longitude": -81.486722,
+    "price_per_gallon": 4.11
+  },
+  {
+    "station_id": 67073,
+    "name": "Sparq - Tulsa",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.161696,
+    "longitude": -95.829403,
+    "price_per_gallon": 4.36
+  },
+  {
+    "station_id": 67118,
+    "name": "Clean Energy - Shipley Energy",
+    "city": "York",
+    "state": "PA",
+    "latitude": 39.974852,
+    "longitude": -76.723959,
+    "price_per_gallon": 3.29
+  },
+  {
+    "station_id": 67170,
+    "name": "Ontario CNG - 76",
+    "city": "Ontario",
+    "state": "CA",
+    "latitude": 34.063139,
+    "longitude": -117.61148,
+    "price_per_gallon": 4.45
+  },
+  {
+    "station_id": 67298,
+    "name": "IGS CNG Services - Speedway South Bend",
+    "city": "South Bend",
+    "state": "IN",
+    "latitude": 41.738117,
+    "longitude": -86.333532,
+    "price_per_gallon": 2.86
+  },
+  {
+    "station_id": 67830,
+    "name": "US Energy - Edwardsville",
+    "city": "Edwardsville",
+    "state": "IL",
+    "latitude": 38.797138,
+    "longitude": -90.076424,
+    "price_per_gallon": 4.49
+  },
+  {
+    "station_id": 67845,
+    "name": "Sparq - Watonga",
+    "city": "Watonga",
+    "state": "OK",
+    "latitude": 35.840761,
+    "longitude": -98.419831,
+    "price_per_gallon": 4.25
+  },
+  {
+    "station_id": 67979,
+    "name": "Sparq - Eaton",
+    "city": "Eaton",
+    "state": "CO",
+    "latitude": 40.524528,
+    "longitude": -104.709098,
+    "price_per_gallon": 3.32
+  },
+  {
+    "station_id": 68219,
+    "name": "Greenville Utilities Commission - Fueling Facility #1",
+    "city": "Greenville",
+    "state": "NC",
+    "latitude": 35.651702,
+    "longitude": -77.369504,
+    "price_per_gallon": 3.37
+  },
+  {
+    "station_id": 68443,
+    "name": "US Energy - Centerville",
+    "city": "Centerville",
+    "state": "TX",
+    "latitude": 31.207465,
+    "longitude": -95.996079,
+    "price_per_gallon": 3.2
+  },
+  {
+    "station_id": 68444,
+    "name": "CNG Energy LLC",
+    "city": "Liberal",
+    "state": "KS",
+    "latitude": 37.069631,
+    "longitude": -100.905444,
+    "price_per_gallon": 3.62
+  },
+  {
+    "station_id": 68608,
+    "name": "Clean and Green CNG Technologies Corp",
+    "city": "Jamestown",
+    "state": "NY",
+    "latitude": 42.128286,
+    "longitude": -79.239695,
+    "price_per_gallon": 2.98
+  },
+  {
+    "station_id": 68611,
+    "name": "US Energy - Inglewood",
+    "city": "Inglewood",
+    "state": "CA",
+    "latitude": 33.933343,
+    "longitude": -118.370006,
+    "price_per_gallon": 3.52
+  },
+  {
+    "station_id": 69025,
+    "name": "Allied Clean Fuels Plaza",
+    "city": "Napa",
+    "state": "CA",
+    "latitude": 38.2356194,
+    "longitude": -122.2655026,
+    "price_per_gallon": 3.53
+  },
+  {
+    "station_id": 69128,
+    "name": "Chevron CNG Station 387989",
+    "city": "Georgetown",
+    "state": "KY",
+    "latitude": 38.27384,
+    "longitude": -84.5508,
+    "price_per_gallon": 3.63
+  },
+  {
+    "station_id": 69155,
+    "name": "OnCue #117",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.392817,
+    "longitude": -97.422948,
+    "price_per_gallon": 3.32
+  },
+  {
+    "station_id": 69160,
+    "name": "Lompoc Unified School District",
+    "city": "Lompoc",
+    "state": "CA",
+    "latitude": 34.660758,
+    "longitude": -120.452355,
+    "price_per_gallon": 4.39
+  },
+  {
+    "station_id": 69204,
+    "name": "Greater Dickson Gas Authority",
+    "city": "Dickson",
+    "state": "TN",
+    "latitude": 36.070478,
+    "longitude": -87.382391,
+    "price_per_gallon": 2.96
+  },
+  {
+    "station_id": 69829,
+    "name": "Trillium",
+    "city": "Aberdeen",
+    "state": "MD",
+    "latitude": 39.497643,
+    "longitude": -76.169957,
+    "price_per_gallon": 3.98
+  },
+  {
+    "station_id": 69830,
+    "name": "Trillium",
+    "city": "McCook",
+    "state": "IL",
+    "latitude": 41.805516,
+    "longitude": -87.818549,
+    "price_per_gallon": 2.93
+  },
+  {
+    "station_id": 69925,
+    "name": "Crown Clean Fuels LLC",
+    "city": "Brazil",
+    "state": "IN",
+    "latitude": 39.446197,
+    "longitude": -87.128195,
+    "price_per_gallon": 3.53
+  },
+  {
+    "station_id": 70126,
+    "name": "Alternative Vehicle Service Group - Worcester",
+    "city": "Worcester",
+    "state": "MA",
+    "latitude": 42.251305,
+    "longitude": -71.805502,
+    "price_per_gallon": 4.16
+  },
+  {
+    "station_id": 71421,
+    "name": "Clean Energy - Islip Resource Recovery Agency",
+    "city": "Ronkonkoma",
+    "state": "NY",
+    "latitude": 40.78642,
+    "longitude": -73.105125,
+    "price_per_gallon": 4.2
+  },
+  {
+    "station_id": 72094,
+    "name": "City of Monterey Park",
+    "city": "Monterey Park",
+    "state": "CA",
+    "latitude": 34.05305,
+    "longitude": -118.116522,
+    "price_per_gallon": 4.24
+  },
+  {
+    "station_id": 72595,
+    "name": "Clean Energy - Vandalia Pilot Flying J #97",
+    "city": "Vandalia",
+    "state": "OH",
+    "latitude": 39.902119,
+    "longitude": -84.192368,
+    "price_per_gallon": 4.2
+  },
+  {
+    "station_id": 72596,
+    "name": "City of Augusta",
+    "city": "Augusta",
+    "state": "GA",
+    "latitude": 33.497956,
+    "longitude": -82.089662,
+    "price_per_gallon": 3.76
+  },
+  {
+    "station_id": 73150,
+    "name": "Capital CNG",
+    "city": "Seminole",
+    "state": "OK",
+    "latitude": 35.25655,
+    "longitude": -96.671004,
+    "price_per_gallon": 4.47
+  },
+  {
+    "station_id": 73696,
+    "name": "OnCue #119",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.507948,
+    "longitude": -97.564657,
+    "price_per_gallon": 3.31
+  },
+  {
+    "station_id": 73699,
+    "name": "Kwik Trip #273",
+    "city": "Duluth",
+    "state": "MN",
+    "latitude": 46.731172,
+    "longitude": -92.180261,
+    "price_per_gallon": 3.03
+  },
+  {
+    "station_id": 73901,
+    "name": "Clean Energy - Central Point Pilot #391",
+    "city": "Central Point",
+    "state": "OR",
+    "latitude": 42.37655,
+    "longitude": -122.898932,
+    "price_per_gallon": 3.17
+  },
+  {
+    "station_id": 74091,
+    "name": "City of Columbus - CNG West",
+    "city": "Columbus",
+    "state": "OH",
+    "latitude": 39.916146,
+    "longitude": -83.134395,
+    "price_per_gallon": 4.35
+  },
+  {
+    "station_id": 75107,
+    "name": "Trillium",
+    "city": "Vancouver",
+    "state": "WA",
+    "latitude": 45.661567,
+    "longitude": -122.694375,
+    "price_per_gallon": 3.34
+  },
+  {
+    "station_id": 75666,
+    "name": "American Natural - Harmar Energy Centre",
+    "city": "Cheswick",
+    "state": "PA",
+    "latitude": 40.54965,
+    "longitude": -79.832323,
+    "price_per_gallon": 3.7
+  },
+  {
+    "station_id": 75776,
+    "name": "SoCalGas - Murrieta",
+    "city": "Murrieta",
+    "state": "CA",
+    "latitude": 33.545881,
+    "longitude": -117.191846,
+    "price_per_gallon": 4.3
+  },
+  {
+    "station_id": 75843,
+    "name": "Chevron CNG Station 387987",
+    "city": "Gates",
+    "state": "NY",
+    "latitude": 43.13929,
+    "longitude": -77.6667,
+    "price_per_gallon": 4.1
+  },
+  {
+    "station_id": 75845,
+    "name": "Chevron CNG Station 387954",
+    "city": "Liverpool",
+    "state": "NY",
+    "latitude": 43.12027,
+    "longitude": -76.2204,
+    "price_per_gallon": 2.99
+  },
+  {
+    "station_id": 75846,
+    "name": "Chevron CNG Station 387975",
+    "city": "Fayetteville",
+    "state": "TN",
+    "latitude": 35.16563,
+    "longitude": -86.5351,
+    "price_per_gallon": 3.93
+  },
+  {
+    "station_id": 75900,
+    "name": "Love's Travel Stop #604",
+    "city": "Guthrie",
+    "state": "OK",
+    "latitude": 35.87844,
+    "longitude": -97.392471,
+    "price_per_gallon": 3.29
+  },
+  {
+    "station_id": 75921,
+    "name": "Chevron CNG Station 387959",
+    "city": "Denver",
+    "state": "CO",
+    "latitude": 39.77354,
+    "longitude": -104.867,
+    "price_per_gallon": 2.97
+  },
+  {
+    "station_id": 76974,
+    "name": "IGS CNG Services - Montgomery County Solid Waste",
+    "city": "Moraine",
+    "state": "OH",
+    "latitude": 39.713376,
+    "longitude": -84.214739,
+    "price_per_gallon": 3.65
+  },
+  {
+    "station_id": 77158,
+    "name": "Clean Energy - Bronx NY",
+    "city": "Bronx",
+    "state": "NY",
+    "latitude": 40.805695,
+    "longitude": -73.880803,
+    "price_per_gallon": 4.43
+  },
+  {
+    "station_id": 77335,
+    "name": "Clean Energy - Salt Lake City",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "latitude": 40.725703,
+    "longitude": -111.920726,
+    "price_per_gallon": 3.18
+  },
+  {
+    "station_id": 77601,
+    "name": "Clean Energy - Homewood Disposal",
+    "city": "Homewood",
+    "state": "IL",
+    "latitude": 41.571315,
+    "longitude": -87.653619,
+    "price_per_gallon": 3.02
+  },
+  {
+    "station_id": 77947,
+    "name": "United Parcel Service",
+    "city": "West Sacramento",
+    "state": "CA",
+    "latitude": 38.572721,
+    "longitude": -121.546207,
+    "price_per_gallon": 3.38
+  },
+  {
+    "station_id": 78148,
+    "name": "Go Sparq - Lawton",
+    "city": "Lawton",
+    "state": "OK",
+    "latitude": 34.584172,
+    "longitude": -98.396813,
+    "price_per_gallon": 3.17
+  },
+  {
+    "station_id": 78255,
+    "name": "Sparq - El Reno",
+    "city": "El Reno",
+    "state": "OK",
+    "latitude": 35.514933,
+    "longitude": -97.948691,
+    "price_per_gallon": 4.34
+  },
+  {
+    "station_id": 78289,
+    "name": "Knoxville Utilities Board",
+    "city": "Knoxville",
+    "state": "TN",
+    "latitude": 35.966518,
+    "longitude": -83.991825,
+    "price_per_gallon": 2.91
+  },
+  {
+    "station_id": 78773,
+    "name": "US Energy - Laredo",
+    "city": "Laredo",
+    "state": "TX",
+    "latitude": 27.7695094,
+    "longitude": -99.4462602,
+    "price_per_gallon": 4.0
+  },
+  {
+    "station_id": 79264,
+    "name": "Trillium",
+    "city": "Troy",
+    "state": "OH",
+    "latitude": 40.045441,
+    "longitude": -84.241394,
+    "price_per_gallon": 3.04
+  },
+  {
+    "station_id": 79266,
+    "name": "Trillium - Cambria County Transit Authority",
+    "city": "Johnstown",
+    "state": "PA",
+    "latitude": 40.334523,
+    "longitude": -78.900235,
+    "price_per_gallon": 2.93
+  },
+  {
+    "station_id": 79267,
+    "name": "Trillium - Central Pennsylvania Transportation Authority",
+    "city": "York",
+    "state": "PA",
+    "latitude": 39.944688,
+    "longitude": -76.793636,
+    "price_per_gallon": 3.58
+  },
+  {
+    "station_id": 79328,
+    "name": "TruStar Energy - Rogue Green Fuels LLC",
+    "city": "White City",
+    "state": "OR",
+    "latitude": 42.4273604,
+    "longitude": -122.8719675,
+    "price_per_gallon": 3.77
+  },
+  {
+    "station_id": 79415,
+    "name": "Kentuckiana Cleanfuel",
+    "city": "Sharonville",
+    "state": "OH",
+    "latitude": 39.289201,
+    "longitude": -84.425955,
+    "price_per_gallon": 4.24
+  },
+  {
+    "station_id": 79934,
+    "name": "City of Chesapeake",
+    "city": "Chesapeake",
+    "state": "VA",
+    "latitude": 36.755694,
+    "longitude": -76.224619,
+    "price_per_gallon": 3.8
+  },
+  {
+    "station_id": 80512,
+    "name": "Oreapolis Energy, LLC",
+    "city": "Plattsmouth",
+    "state": "NE",
+    "latitude": 41.04622,
+    "longitude": -95.915192,
+    "price_per_gallon": 3.4
+  },
+  {
+    "station_id": 80515,
+    "name": "Revolution CNG - Sanger Unified School District",
+    "city": "Sanger",
+    "state": "CA",
+    "latitude": 36.68084,
+    "longitude": -119.553166,
+    "price_per_gallon": 4.45
+  },
+  {
+    "station_id": 81715,
+    "name": "Love's Trillium - Miami-Dade County Metrobus",
+    "city": "Miami",
+    "state": "FL",
+    "latitude": 25.745928,
+    "longitude": -80.313403,
+    "price_per_gallon": 4.32
+  },
+  {
+    "station_id": 81766,
+    "name": "Chevron CNG Station 387937",
+    "city": "Buda",
+    "state": "TX",
+    "latitude": 30.09455,
+    "longitude": -97.8111,
+    "price_per_gallon": 4.26
+  },
+  {
+    "station_id": 81768,
+    "name": "City of Panama City",
+    "city": "Panama City",
+    "state": "FL",
+    "latitude": 30.196844,
+    "longitude": -85.65117,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 81857,
+    "name": "Snyder Brothers",
+    "city": "Kittanning",
+    "state": "PA",
+    "latitude": 40.815644,
+    "longitude": -79.565628,
+    "price_per_gallon": 2.96
+  },
+  {
+    "station_id": 85517,
+    "name": "American Natural - Wexford Energy Centre",
+    "city": "Sewickley",
+    "state": "PA",
+    "latitude": 40.614665,
+    "longitude": -80.098711,
+    "price_per_gallon": 3.97
+  },
+  {
+    "station_id": 85854,
+    "name": "Chevron CNG Station 387979",
+    "city": "Fontana",
+    "state": "CA",
+    "latitude": 34.06064,
+    "longitude": -117.488,
+    "price_per_gallon": 3.3
+  },
+  {
+    "station_id": 85912,
+    "name": "Almeda Fuels",
+    "city": "Houston",
+    "state": "TX",
+    "latitude": 29.628285,
+    "longitude": -95.412268,
+    "price_per_gallon": 3.78
+  },
+  {
+    "station_id": 86009,
+    "name": "Piedmont Natural Gas - Hickory",
+    "city": "Hickory",
+    "state": "NC",
+    "latitude": 35.70770467868316,
+    "longitude": -81.39436429101562,
+    "price_per_gallon": 4.46
+  },
+  {
+    "station_id": 86108,
+    "name": "City of Corpus Christi",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "latitude": 27.73125,
+    "longitude": -97.429745,
+    "price_per_gallon": 4.16
+  },
+  {
+    "station_id": 86948,
+    "name": "Energy Conservation Works - Lower Valley Energy",
+    "city": "Jackson",
+    "state": "WY",
+    "latitude": 43.420504,
+    "longitude": -110.774568,
+    "price_per_gallon": 3.25
+  },
+  {
+    "station_id": 86992,
+    "name": "Clean Energy - Portage Area Regional Transportation Authority",
+    "city": "Kent",
+    "state": "OH",
+    "latitude": 41.136595,
+    "longitude": -81.319096,
+    "price_per_gallon": 3.18
+  },
+  {
+    "station_id": 87011,
+    "name": "Chevron CNG Station 387957",
+    "city": "Lynchburg",
+    "state": "VA",
+    "latitude": 37.39664,
+    "longitude": -79.2291,
+    "price_per_gallon": 4.22
+  },
+  {
+    "station_id": 87706,
+    "name": "Alternative Vehicle Service Group - Concord",
+    "city": "Concord",
+    "state": "NH",
+    "latitude": 43.182787,
+    "longitude": -71.495001,
+    "price_per_gallon": 3.64
+  },
+  {
+    "station_id": 88077,
+    "name": "Quarles Fleet Fueling",
+    "city": "Rockville",
+    "state": "MD",
+    "latitude": 39.103618,
+    "longitude": -77.133408,
+    "price_per_gallon": 4.22
+  },
+  {
+    "station_id": 88383,
+    "name": "Mid-Kansas CNG",
+    "city": "Kingman",
+    "state": "KS",
+    "latitude": 37.648431,
+    "longitude": -98.094183,
+    "price_per_gallon": 3.98
+  },
+  {
+    "station_id": 88505,
+    "name": "Clean Energy - Midway Pilot #92",
+    "city": "Ocala",
+    "state": "FL",
+    "latitude": 29.267909,
+    "longitude": -82.191578,
+    "price_per_gallon": 3.45
+  },
+  {
+    "station_id": 88600,
+    "name": "Chesapeake Utilities Corp",
+    "city": "Dover",
+    "state": "DE",
+    "latitude": 39.1477777,
+    "longitude": -75.4988888,
+    "price_per_gallon": 3.02
+  },
+  {
+    "station_id": 89323,
+    "name": "Fullerton Joint Union High School District",
+    "city": "La Habra",
+    "state": "CA",
+    "latitude": 33.919681,
+    "longitude": -117.940717,
+    "price_per_gallon": 2.85
+  },
+  {
+    "station_id": 89813,
+    "name": "Chevron CNG Station 387938",
+    "city": "Buttonwillow",
+    "state": "CA",
+    "latitude": 35.40016,
+    "longitude": -119.4,
+    "price_per_gallon": 3.48
+  },
+  {
+    "station_id": 89911,
+    "name": "South Jersey Gas - Riggins",
+    "city": "Malaga",
+    "state": "NJ",
+    "latitude": 39.572621,
+    "longitude": -75.053406,
+    "price_per_gallon": 3.75
+  },
+  {
+    "station_id": 91696,
+    "name": "Clean Energy - USA Hauling & Recycling",
+    "city": "East Windsor",
+    "state": "CT",
+    "latitude": 41.93118217393383,
+    "longitude": -72.59761565410614,
+    "price_per_gallon": 3.1
+  },
+  {
+    "station_id": 91913,
+    "name": "Piedmont Natural Gas - Fayetteville",
+    "city": "Fayetteville",
+    "state": "NC",
+    "latitude": 34.953342,
+    "longitude": -78.890291,
+    "price_per_gallon": 4.32
+  },
+  {
+    "station_id": 97026,
+    "name": "B&H Construction",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.081743,
+    "longitude": -96.054325,
+    "price_per_gallon": 2.98
+  },
+  {
+    "station_id": 98522,
+    "name": "Trillium - New Castle Transit Authority",
+    "city": "New Castle",
+    "state": "PA",
+    "latitude": 40.982071,
+    "longitude": -80.356436,
+    "price_per_gallon": 3.03
+  },
+  {
+    "station_id": 99695,
+    "name": "Rialto Unified School District",
+    "city": "Rialto",
+    "state": "CA",
+    "latitude": 34.0973590799505,
+    "longitude": -117.3788299914017,
+    "price_per_gallon": 2.95
+  },
+  {
+    "station_id": 100443,
+    "name": "US Energy - Independence Fuel Systems",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.648858,
+    "longitude": -96.782923,
+    "price_per_gallon": 3.32
+  },
+  {
+    "station_id": 103895,
+    "name": "ASAP General Store 308",
+    "city": "Bartlesville",
+    "state": "OK",
+    "latitude": 36.751521,
+    "longitude": -96.000152,
+    "price_per_gallon": 3.76
+  },
+  {
+    "station_id": 104021,
+    "name": "SoCalGas - Fontana Base",
+    "city": "Fontana",
+    "state": "CA",
+    "latitude": 34.069321,
+    "longitude": -117.45157,
+    "price_per_gallon": 3.81
+  },
+  {
+    "station_id": 104492,
+    "name": "Trillium - Indiana County Transit Authority",
+    "city": "Indiana",
+    "state": "PA",
+    "latitude": 40.612658,
+    "longitude": -79.172436,
+    "price_per_gallon": 3.59
+  },
+  {
+    "station_id": 105075,
+    "name": "IGS CNG Services - Fairview",
+    "city": "Fairview",
+    "state": "PA",
+    "latitude": 42.020202,
+    "longitude": -80.188497,
+    "price_per_gallon": 4.44
+  },
+  {
+    "station_id": 105517,
+    "name": "Blue Mark Fuels",
+    "city": "Tulsa",
+    "state": "OK",
+    "latitude": 36.2210036,
+    "longitude": -95.8366605,
+    "price_per_gallon": 3.37
+  },
+  {
+    "station_id": 117015,
+    "name": "Seneca Landfill - Lego-V",
+    "city": "Evans City",
+    "state": "PA",
+    "latitude": 40.812004,
+    "longitude": -80.078881,
+    "price_per_gallon": 3.9
+  },
+  {
+    "station_id": 117871,
+    "name": "Clean Energy - South Jersey Gas",
+    "city": "Waterford Works",
+    "state": "NJ",
+    "latitude": 39.729204,
+    "longitude": -74.863836,
+    "price_per_gallon": 4.38
+  },
+  {
+    "station_id": 118326,
+    "name": "Kwik Trip #1048",
+    "city": "West Salem",
+    "state": "WI",
+    "latitude": 43.893228,
+    "longitude": -91.077717,
+    "price_per_gallon": 4.33
+  },
+  {
+    "station_id": 118517,
+    "name": "Waste Management - Clean N' Green - White Tank",
+    "city": "Goodyear",
+    "state": "AZ",
+    "latitude": 33.463568,
+    "longitude": -112.459255,
+    "price_per_gallon": 3.75
+  },
+  {
+    "station_id": 122987,
+    "name": "Trillium",
+    "city": "Naperville",
+    "state": "IL",
+    "latitude": 41.768307,
+    "longitude": -88.191536,
+    "price_per_gallon": 3.94
+  },
+  {
+    "station_id": 124245,
+    "name": "EMW Gas Association",
+    "city": "Moriarty",
+    "state": "NM",
+    "latitude": 35.00461355709059,
+    "longitude": -106.0328366610214,
+    "price_per_gallon": 3.84
+  },
+  {
+    "station_id": 124553,
+    "name": "Sapphire Gas Solutions",
+    "city": "Palm Springs",
+    "state": "CA",
+    "latitude": 33.904195,
+    "longitude": -116.552357,
+    "price_per_gallon": 3.64
+  },
+  {
+    "station_id": 135483,
+    "name": "SoCalGas - Bakersfield Base",
+    "city": "Bakersfield",
+    "state": "CA",
+    "latitude": 35.44379133130982,
+    "longitude": -119.0777034827728,
+    "price_per_gallon": 3.44
+  },
+  {
+    "station_id": 146957,
+    "name": "SoCalGas - Branford Base",
+    "city": "Pacoima",
+    "state": "CA",
+    "latitude": 34.247415,
+    "longitude": -118.405835,
+    "price_per_gallon": 3.02
+  },
+  {
+    "station_id": 151885,
+    "name": "Ozinga Energy - Gary",
+    "city": "Gary",
+    "state": "IN",
+    "latitude": 41.587098,
+    "longitude": -87.302188,
+    "price_per_gallon": 3.91
+  },
+  {
+    "station_id": 151887,
+    "name": "Ozinga Energy - New Buffalo",
+    "city": "New Buffalo",
+    "state": "MI",
+    "latitude": 41.784962,
+    "longitude": -86.735755,
+    "price_per_gallon": 3.18
+  },
+  {
+    "station_id": 151893,
+    "name": "Love's Travel Stop #230",
+    "city": "Lost Hills",
+    "state": "CA",
+    "latitude": 35.61701,
+    "longitude": -119.658905,
+    "price_per_gallon": 4.4
+  },
+  {
+    "station_id": 151894,
+    "name": "Love's Travel Stop #392",
+    "city": "Tehachapi",
+    "state": "CA",
+    "latitude": 35.125636,
+    "longitude": -118.408202,
+    "price_per_gallon": 3.38
+  },
+  {
+    "station_id": 155590,
+    "name": "Codyco",
+    "city": "Woodbine",
+    "state": "NJ",
+    "latitude": 39.224956,
+    "longitude": -74.774461,
+    "price_per_gallon": 3.62
+  },
+  {
+    "station_id": 156339,
+    "name": "South Jersey Gas",
+    "city": "Burleigh",
+    "state": "NJ",
+    "latitude": 39.052532,
+    "longitude": -74.851683,
+    "price_per_gallon": 4.18
+  },
+  {
+    "station_id": 163415,
+    "name": "ReFuel Salt Lake City",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "latitude": 40.773333,
+    "longitude": -112.026267,
+    "price_per_gallon": 3.83
+  },
+  {
+    "station_id": 165100,
+    "name": "Marlin Compression",
+    "city": "Port Wentworth",
+    "state": "GA",
+    "latitude": 32.137126,
+    "longitude": -81.173883,
+    "price_per_gallon": 4.35
+  },
+  {
+    "station_id": 169548,
+    "name": "Piedmont Natural Gas - Wilmington",
+    "city": "Wilmington",
+    "state": "NC",
+    "latitude": 34.28252976469934,
+    "longitude": -77.96360326452637,
+    "price_per_gallon": 2.97
+  },
+  {
+    "station_id": 190038,
+    "name": "US Energy - Compton",
+    "city": "Compton",
+    "state": "CA",
+    "latitude": 33.921013,
+    "longitude": -118.221077,
+    "price_per_gallon": 3.35
+  },
+  {
+    "station_id": 213510,
+    "name": "Shell Food Mart #23",
+    "city": "Meridian",
+    "state": "MS",
+    "latitude": 32.34585,
+    "longitude": -88.73686,
+    "price_per_gallon": 3.3
+  },
+  {
+    "station_id": 217236,
+    "name": "Clean Energy - Southern Counties Express",
+    "city": "Carson",
+    "state": "CA",
+    "latitude": 33.832757,
+    "longitude": -118.235208,
+    "price_per_gallon": 4.01
+  },
+  {
+    "station_id": 222022,
+    "name": "The Fuel Farm",
+    "city": "Auburn",
+    "state": "WA",
+    "latitude": 47.31108,
+    "longitude": -122.23351,
+    "price_per_gallon": 3.81
+  },
+  {
+    "station_id": 251711,
+    "name": "Clean Energy - Mobile Pilot #302",
+    "city": "Theodore",
+    "state": "AL",
+    "latitude": 30.559106,
+    "longitude": -88.205383,
+    "price_per_gallon": 3.22
+  },
+  {
+    "station_id": 252682,
+    "name": "Victor Valley Transit Authority",
+    "city": "Hesperia",
+    "state": "CA",
+    "latitude": 34.42678,
+    "longitude": -117.29094,
+    "price_per_gallon": 3.02
+  },
+  {
+    "station_id": 252683,
+    "name": "Nopetro",
+    "city": "Orlando",
+    "state": "FL",
+    "latitude": 28.57515974717913,
+    "longitude": -81.415307317791,
+    "price_per_gallon": 4.05
+  },
+  {
+    "station_id": 254155,
+    "name": "Chevron CNG 386887/Valley Pacific",
+    "city": "Visalia",
+    "state": "CA",
+    "latitude": 36.34122,
+    "longitude": -119.39,
+    "price_per_gallon": 4.03
+  },
+  {
+    "station_id": 310776,
+    "name": "Love's Trillium - Miami Dade",
+    "city": "Miami",
+    "state": "FL",
+    "latitude": 25.74321,
+    "longitude": -80.31153,
+    "price_per_gallon": 3.06
+  },
+  {
+    "station_id": 311635,
+    "name": "City of Chesapeake",
+    "city": "Chesapeake",
+    "state": "VA",
+    "latitude": 36.754563,
+    "longitude": -76.22878,
+    "price_per_gallon": 3.02
+  },
+  {
+    "station_id": 312230,
+    "name": "Chevron 98551",
+    "city": "Lost Hills",
+    "state": "CA",
+    "latitude": 35.6157,
+    "longitude": -119.657,
+    "price_per_gallon": 3.86
+  },
+  {
+    "station_id": 312233,
+    "name": "Chevron CNG Station 387526",
+    "city": "Montebello",
+    "state": "CA",
+    "latitude": 34.00562,
+    "longitude": -118.124,
+    "price_per_gallon": 3.56
+  },
+  {
+    "station_id": 317955,
+    "name": "Chevron CNG 386889 / Valley Pacific",
+    "city": "Stockton",
+    "state": "CA",
+    "latitude": 37.93507,
+    "longitude": -121.312,
+    "price_per_gallon": 3.24
+  },
+  {
+    "station_id": 320206,
+    "name": "South Jersey Gas",
+    "city": "Union",
+    "state": "NJ",
+    "latitude": 40.67626,
+    "longitude": -74.24808,
+    "price_per_gallon": 3.5
+  },
+  {
+    "station_id": 323781,
+    "name": "Capital CNG",
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "latitude": 37.2826,
+    "longitude": -89.57198,
+    "price_per_gallon": 4.05
+  },
+  {
+    "station_id": 325460,
+    "name": "Chevron CNG 387475/Valley Pacific",
+    "city": "Orland",
+    "state": "CA",
+    "latitude": 39.73956,
+    "longitude": -122.202,
+    "price_per_gallon": 2.91
+  },
+  {
+    "station_id": 325461,
+    "name": "Chevron CNG 387516",
+    "city": "Shafter",
+    "state": "CA",
+    "latitude": 35.44128,
+    "longitude": -119.25,
+    "price_per_gallon": 3.98
+  },
+  {
+    "station_id": 328890,
+    "name": "Chevron CNG 387375",
+    "city": "Bakersfield",
+    "state": "CA",
+    "latitude": 35.39038,
+    "longitude": -119.09,
+    "price_per_gallon": 3.92
+  },
+  {
+    "station_id": 329773,
+    "name": "Clean Energy - North-Fort Worth",
+    "city": "Haslet",
+    "state": "TX",
+    "latitude": 32.98445,
+    "longitude": -97.33049,
+    "price_per_gallon": 3.05
+  },
+  {
+    "station_id": 329774,
+    "name": "Clean Energy - South Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.62712,
+    "longitude": -96.74537,
+    "price_per_gallon": 3.49
+  },
+  {
+    "station_id": 330877,
+    "name": "Cumberland County Improvement Authority",
+    "city": "Millville",
+    "state": "NJ",
+    "latitude": 39.45187,
+    "longitude": -75.0998,
+    "price_per_gallon": 2.92
+  },
+  {
+    "station_id": 348030,
+    "name": "Clean Energy - Romeoville",
+    "city": "Romeoville",
+    "state": "IL",
+    "latitude": 41.61281,
+    "longitude": -88.10407,
+    "price_per_gallon": 3.56
+  },
+  {
+    "station_id": 354759,
+    "name": "Dallas Area Rapid Transit - Glenn Heights Park & Ride",
+    "city": "Glenn Heights",
+    "state": "TX",
+    "latitude": 32.5596,
+    "longitude": -96.82776,
+    "price_per_gallon": 3.13
+  },
+  {
+    "station_id": 356383,
+    "name": "OPAL Fuels Fort Myers",
+    "city": "Fort Meyers",
+    "state": "FL",
+    "latitude": 26.63868,
+    "longitude": -81.80608,
+    "price_per_gallon": 3.23
+  },
+  {
+    "station_id": 360974,
+    "name": "Oklahoma Natural Gas - Woodward Service Center",
+    "city": "Woodward",
+    "state": "OK",
+    "latitude": 36.40483,
+    "longitude": -99.43388,
+    "price_per_gallon": 2.89
+  },
+  {
+    "station_id": 361330,
+    "name": "INL Atomic City",
+    "city": "Blackfoot",
+    "state": "ID",
+    "latitude": 43.4465458,
+    "longitude": -112.8113372,
+    "price_per_gallon": 4.35
+  },
+  {
+    "station_id": 367936,
+    "name": "Sapphire Gas Solutions",
+    "city": "Trenton",
+    "state": "TN",
+    "latitude": 36.00508,
+    "longitude": -88.94581,
+    "price_per_gallon": 3.39
+  },
+  {
+    "station_id": 372060,
+    "name": "Chevron CNG Station 387375",
+    "city": "Bakersfield",
+    "state": "CA",
+    "latitude": 35.39038,
+    "longitude": -119.09,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 372061,
+    "name": "Chevron CNG Station 388839",
+    "city": "Jacksonville",
+    "state": "FL",
+    "latitude": 30.46637,
+    "longitude": -81.671,
+    "price_per_gallon": 3.7
+  },
+  {
+    "station_id": 372062,
+    "name": "Chevron CNG Station 388838",
+    "city": "Jefferson",
+    "state": "GA",
+    "latitude": 34.18976,
+    "longitude": -83.5992,
+    "price_per_gallon": 3.82
+  },
+  {
+    "station_id": 372063,
+    "name": "Chevron CNG Station 387134",
+    "city": "Lodi",
+    "state": "CA",
+    "latitude": 38.13723,
+    "longitude": -121.255,
+    "price_per_gallon": 3.97
+  },
+  {
+    "station_id": 372064,
+    "name": "Chevron CNG Station 388469",
+    "city": "McClellen Park",
+    "state": "CA",
+    "latitude": 38.65015,
+    "longitude": -121.411,
+    "price_per_gallon": 3.74
+  },
+  {
+    "station_id": 372065,
+    "name": "Chevron CNG Station 388659",
+    "city": "Midland",
+    "state": "TX",
+    "latitude": 32.07147,
+    "longitude": -101.929,
+    "price_per_gallon": 3.07
+  },
+  {
+    "station_id": 372066,
+    "name": "Chevron CNG Station 388470",
+    "city": "Plant City",
+    "state": "FL",
+    "latitude": 28.00608,
+    "longitude": -82.05633,
+    "price_per_gallon": 2.93
+  },
+  {
+    "station_id": 372067,
+    "name": "Chevron CNG Station 387988",
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "latitude": 34.07767,
+    "longitude": -117.6,
+    "price_per_gallon": 4.0
+  },
+  {
+    "station_id": 372068,
+    "name": "Chevron CNG Station 387131",
+    "city": "Redding",
+    "state": "CA",
+    "latitude": 40.62292,
+    "longitude": -122.369,
+    "price_per_gallon": 3.7
+  },
+  {
+    "station_id": 372069,
+    "name": "Chevron CNG Station 387561",
+    "city": "Rialto",
+    "state": "CA",
+    "latitude": 34.05603,
+    "longitude": -117.371,
+    "price_per_gallon": 4.46
+  },
+  {
+    "station_id": 372070,
+    "name": "Chevron CNG Station 387517",
+    "city": "Santa Maria",
+    "state": "CA",
+    "latitude": 34.92386,
+    "longitude": -120.417,
+    "price_per_gallon": 3.94
+  },
+  {
+    "station_id": 372071,
+    "name": "Chevron CNG Station 387133",
+    "city": "Stockton",
+    "state": "CA",
+    "latitude": 37.92391,
+    "longitude": -121.229,
+    "price_per_gallon": 3.69
+  },
+  {
+    "station_id": 372072,
+    "name": "Chevron",
+    "city": "Tracy",
+    "state": "CA",
+    "latitude": 37.76595,
+    "longitude": -121.434,
+    "price_per_gallon": 4.15
+  },
+  {
+    "station_id": 372073,
+    "name": "Chevron CNG Station 388589",
+    "city": "Vacaville",
+    "state": "CA",
+    "latitude": 38.39524,
+    "longitude": -121.952,
+    "price_per_gallon": 4.04
+  },
+  {
+    "station_id": 372074,
+    "name": "Chevron CNG Station 388147",
+    "city": "Vernon",
+    "state": "CA",
+    "latitude": 34.00836,
+    "longitude": -118.212,
+    "price_per_gallon": 3.04
+  },
+  {
+    "station_id": 372188,
+    "name": "Clean Energy - Pasadena - So Cal Base",
+    "city": "Pasadena",
+    "state": "CA",
+    "latitude": 34.14922,
+    "longitude": -118.07735,
+    "price_per_gallon": 3.13
+  },
+  {
+    "station_id": 372190,
+    "name": "Clean Energy - University of California San Diego",
+    "city": "La Jolla",
+    "state": "CA",
+    "latitude": 32.88018,
+    "longitude": -117.21969,
+    "price_per_gallon": 4.04
+  },
+  {
+    "station_id": 372191,
+    "name": "Clean Energy - DFW 5E",
+    "city": "Grapevine",
+    "state": "TX",
+    "latitude": 32.87747097482893,
+    "longitude": -97.03684258235931,
+    "price_per_gallon": 3.77
+  },
+  {
+    "station_id": 372192,
+    "name": "Clean Energy - Laredo",
+    "city": "Laredo",
+    "state": "TX",
+    "latitude": 27.5482,
+    "longitude": -99.4724,
+    "price_per_gallon": 3.85
+  },
+  {
+    "station_id": 372193,
+    "name": "Clean Energy - Midland",
+    "city": "Midland",
+    "state": "TX",
+    "latitude": 31.91402,
+    "longitude": -102.21645,
+    "price_per_gallon": 3.39
+  },
+  {
+    "station_id": 372194,
+    "name": "Clean Energy - JFK Airport Travel Plaza",
+    "city": "New York City",
+    "state": "NY",
+    "latitude": 40.66235130004251,
+    "longitude": -73.79290647354128,
+    "price_per_gallon": 3.49
+  },
+  {
+    "station_id": 372196,
+    "name": "Clean Energy - New Haven",
+    "city": "New Haven",
+    "state": "CT",
+    "latitude": 41.29486,
+    "longitude": -72.89918,
+    "price_per_gallon": 2.87
+  },
+  {
+    "station_id": 372197,
+    "name": "Clean Energy - Oak Creek",
+    "city": "Oak Creek",
+    "state": "WI",
+    "latitude": 42.91441,
+    "longitude": -87.91458,
+    "price_per_gallon": 4.4
+  },
+  {
+    "station_id": 372198,
+    "name": "Clean Energy - Fort Worth",
+    "city": "Fort Worth",
+    "state": "TX",
+    "latitude": 32.6832,
+    "longitude": -97.24234,
+    "price_per_gallon": 3.77
+  },
+  {
+    "station_id": 372199,
+    "name": "Clean Energy - San Bernardino",
+    "city": "San Bernadino",
+    "state": "CA",
+    "latitude": 34.08606,
+    "longitude": -117.26028,
+    "price_per_gallon": 3.33
+  },
+  {
+    "station_id": 372200,
+    "name": "Clean Energy - Pacific",
+    "city": "Pacific",
+    "state": "WA",
+    "latitude": 47.25123,
+    "longitude": -122.24843,
+    "price_per_gallon": 3.01
+  },
+  {
+    "station_id": 372201,
+    "name": "Clean Energy - Baltimore",
+    "city": "Baltimore",
+    "state": "MD",
+    "latitude": 39.30135,
+    "longitude": -76.52968,
+    "price_per_gallon": 4.28
+  },
+  {
+    "station_id": 372202,
+    "name": "Clean Energy - Groveport",
+    "city": "Groveport",
+    "state": "OH",
+    "latitude": 39.85161,
+    "longitude": -82.902,
+    "price_per_gallon": 3.47
+  },
+  {
+    "station_id": 372203,
+    "name": "Clean Energy - Woodhaven",
+    "city": "Woodhaven",
+    "state": "MI",
+    "latitude": 42.12392,
+    "longitude": -83.22734,
+    "price_per_gallon": 4.02
+  },
+  {
+    "station_id": 372204,
+    "name": "Clean Energy - Davenport",
+    "city": "Davenport",
+    "state": "FL",
+    "latitude": 28.23663,
+    "longitude": -81.65351,
+    "price_per_gallon": 4.24
+  },
+  {
+    "station_id": 372205,
+    "name": "Clean Energy - Twinsburg",
+    "city": "Twinsburg",
+    "state": "OH",
+    "latitude": 41.29188,
+    "longitude": -81.46987,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 372206,
+    "name": "Clean Energy - Bordentown",
+    "city": "Bordentown",
+    "state": "NJ",
+    "latitude": 40.12322,
+    "longitude": -74.7073,
+    "price_per_gallon": 4.25
+  },
+  {
+    "station_id": 372207,
+    "name": "Clean Energy - Carneys Point",
+    "city": "Carneys Point",
+    "state": "NJ",
+    "latitude": 39.7062,
+    "longitude": -75.44317,
+    "price_per_gallon": 4.02
+  },
+  {
+    "station_id": 372208,
+    "name": "Clean Energy - Oklahoma City",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "latitude": 35.43477,
+    "longitude": -97.60538,
+    "price_per_gallon": 3.46
+  },
+  {
+    "station_id": 372209,
+    "name": "Clean Energy - McClellan",
+    "city": "McClellan",
+    "state": "CA",
+    "latitude": 38.64727,
+    "longitude": -121.40838,
+    "price_per_gallon": 3.93
+  },
+  {
+    "station_id": 372210,
+    "name": "Clean Energy - Madera",
+    "city": "Madera",
+    "state": "CA",
+    "latitude": 36.95137,
+    "longitude": -120.05002,
+    "price_per_gallon": 4.34
+  },
+  {
+    "station_id": 372213,
+    "name": "Capital CNG - San Diego",
+    "city": "San Diego",
+    "state": "CA",
+    "latitude": 32.73941,
+    "longitude": -117.17751,
+    "price_per_gallon": 4.06
+  },
+  {
+    "station_id": 372242,
+    "name": "Piedmont Natural Gas",
+    "city": "Charlotte",
+    "state": "NC",
+    "latitude": 35.28548,
+    "longitude": -80.96888,
+    "price_per_gallon": 4.47
+  },
+  {
+    "station_id": 384867,
+    "name": "EDCO Public CNG Station",
+    "city": "San Marcos",
+    "state": "CA",
+    "latitude": 33.14215,
+    "longitude": -117.19223,
+    "price_per_gallon": 3.1
+  },
+  {
+    "station_id": 384869,
+    "name": "Truck.Net",
+    "city": "San Diego",
+    "state": "CA",
+    "latitude": 32.5574,
+    "longitude": -116.96086,
+    "price_per_gallon": 3.43
+  },
+  {
+    "station_id": 384871,
+    "name": "X3CNG",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "latitude": 38.94305,
+    "longitude": -104.72752,
+    "price_per_gallon": 3.83
+  },
+  {
+    "station_id": 385132,
+    "name": "X3CNG",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "latitude": 38.94504,
+    "longitude": -104.72389,
+    "price_per_gallon": 3.69
+  },
+  {
+    "station_id": 396222,
+    "name": "Nopetro",
+    "city": "St. Augustine",
+    "state": "FL",
+    "latitude": 29.91404,
+    "longitude": -81.38421,
+    "price_per_gallon": 3.95
+  },
+  {
+    "station_id": 399799,
+    "name": "EDCO - San Diego",
+    "city": "San Diego",
+    "state": "CA",
+    "latitude": 32.88375,
+    "longitude": -117.1942,
+    "price_per_gallon": 4.05
+  },
+  {
+    "station_id": 422422,
+    "name": "Clean N' Green",
+    "city": "Palmdale",
+    "state": "CA",
+    "latitude": 34.5674623197748,
+    "longitude": -118.1453102487183,
+    "price_per_gallon": 3.86
+  },
+  {
+    "station_id": 422872,
+    "name": "Dynamic Renewable Solutions",
+    "city": "Wasco",
+    "state": "CA",
+    "latitude": 35.60007,
+    "longitude": -119.40132,
+    "price_per_gallon": 4.14
+  },
+  {
+    "station_id": 429567,
+    "name": "Chevron CNG Station 388146",
+    "city": "Colton",
+    "state": "CA",
+    "latitude": 34.065768,
+    "longitude": -117.314212,
+    "price_per_gallon": 3.16
+  },
+  {
+    "station_id": 429568,
+    "name": "Chevron CNG Station 388581",
+    "city": "Charlotte",
+    "state": "NC",
+    "latitude": 35.368637,
+    "longitude": -80.830228,
+    "price_per_gallon": 3.74
+  },
+  {
+    "station_id": 439596,
+    "name": "Waste Management - Utah West Jordan",
+    "city": "West Jordan",
+    "state": "UT",
+    "latitude": 40.59427,
+    "longitude": -111.98684,
+    "price_per_gallon": 3.68
+  },
+  {
+    "station_id": 439647,
+    "name": "Waste Management - Moreno Valley Hauling",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "latitude": 33.86372,
+    "longitude": -117.23253,
+    "price_per_gallon": 3.58
+  },
+  {
+    "station_id": 449311,
+    "name": "Love's Alternative Energy",
+    "city": "Fresno",
+    "state": "CA",
+    "latitude": 36.66668,
+    "longitude": -119.7342,
+    "price_per_gallon": 3.55
+  },
+  {
+    "station_id": 449783,
+    "name": "Calgren",
+    "city": "Pixley",
+    "state": "CA",
+    "latitude": 36.00663,
+    "longitude": -119.30453,
+    "price_per_gallon": 4.36
+  },
+  {
+    "station_id": 451097,
+    "name": "Opal Fuels - Visalia",
+    "city": "Visalia",
+    "state": "CA",
+    "latitude": 36.35225238342238,
+    "longitude": -119.4239288955155,
+    "price_per_gallon": 3.12
+  },
+  {
+    "station_id": 451120,
+    "name": "Opal Fuels - Buttonwillow",
+    "city": "Buttonwillow",
+    "state": "CA",
+    "latitude": 35.39830330428139,
+    "longitude": -119.4125818316218,
+    "price_per_gallon": 4.33
+  },
+  {
+    "station_id": 451121,
+    "name": "Opal Fuels - Tipton",
+    "city": "Tipton",
+    "state": "CA",
+    "latitude": 36.05095523874346,
+    "longitude": -119.3192942839297,
+    "price_per_gallon": 4.01
+  },
+  {
+    "station_id": 451122,
+    "name": "Opal Fuels - Bakersfield",
+    "city": "Bakersfield",
+    "state": "CA",
+    "latitude": 35.23837553676034,
+    "longitude": -119.1092782723926,
+    "price_per_gallon": 4.03
+  },
+  {
+    "station_id": 451626,
+    "name": "Harbor Truck Stop",
+    "city": "Long Beach",
+    "state": "CA",
+    "latitude": 33.78934,
+    "longitude": -118.22065,
+    "price_per_gallon": 4.35
+  },
+  {
+    "station_id": 457736,
+    "name": "Waste Management - Southern Sanitation",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "latitude": 26.27697,
+    "longitude": -80.1543,
+    "price_per_gallon": 4.24
+  },
+  {
+    "station_id": 457742,
+    "name": "Waste Management - Phoenix Hauling White Tank",
+    "city": "Goodyear",
+    "state": "AZ",
+    "latitude": 33.46394,
+    "longitude": -112.45879,
+    "price_per_gallon": 3.53
+  }
+]

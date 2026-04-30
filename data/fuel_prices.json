@@ -1,0 +1,74 @@
+[
+  {
+    "station_id": 1,
+    "name": "Pilot Travel Center",
+    "city": "Dallas",
+    "state": "TX",
+    "latitude": 32.7767,
+    "longitude": -96.7970,
+    "price_per_gallon": 3.45
+  },
+  {
+    "station_id": 2,
+    "name": "Shell Fort Worth",
+    "city": "Fort Worth",
+    "state": "TX",
+    "latitude": 32.7555,
+    "longitude": -97.3308,
+    "price_per_gallon": 3.39
+  },
+  {
+    "station_id": 3,
+    "name": "Chevron Abilene",
+    "city": "Abilene",
+    "state": "TX",
+    "latitude": 32.4487,
+    "longitude": -99.7331,
+    "price_per_gallon": 3.29
+  },
+  {
+    "station_id": 4,
+    "name": "Love's Travel Stop Midland",
+    "city": "Midland",
+    "state": "TX",
+    "latitude": 31.9974,
+    "longitude": -102.0779,
+    "price_per_gallon": 3.19
+  },
+  {
+    "station_id": 5,
+    "name": "Shell El Paso",
+    "city": "El Paso",
+    "state": "TX",
+    "latitude": 31.7619,
+    "longitude": -106.4850,
+    "price_per_gallon": 3.09
+  },
+  {
+    "station_id": 6,
+    "name": "Circle K Tucson",
+    "city": "Tucson",
+    "state": "AZ",
+    "latitude": 32.2226,
+    "longitude": -110.9747,
+    "price_per_gallon": 3.25
+  },
+  {
+    "station_id": 7,
+    "name": "Chevron Phoenix",
+    "city": "Phoenix",
+    "state": "AZ",
+    "latitude": 33.4484,
+    "longitude": -112.0740,
+    "price_per_gallon": 3.35
+  },
+  {
+    "station_id": 8,
+    "name": "Shell Los Angeles",
+    "city": "Los Angeles",
+    "state": "CA",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "price_per_gallon": 4.15
+  }
+]

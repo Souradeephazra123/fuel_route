@@ -167,3 +167,24 @@ If this were to be expanded into a production-level enterprise service:
    ```bash
    python manage.py runserver
    ```
+
+
+
+
+inside config folder create local_settings.py
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'your db name',
+        'USER': 'your db user',
+        'PASSWORD': 'your db password',
+        'HOST': 'localhost', 
+        'PORT': '5432',
+    }
+}
+
+
+ORS_API_KEY="Enter your key here from https://account.heigit.org/manage/key by signing up"
+
+

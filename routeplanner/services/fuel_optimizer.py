@@ -5,7 +5,7 @@ import math
 
 
 class FuelOptimizer:
-    def optimizing_fuel_plan(self,station_with_progress,route_distance_miles,max_range_miles=500,mpg=10,start_fuel_percent=100,fuel_step_miles=10,start_price_per_gallon=None):
+    def optimizing_fuel_plan(self,station_with_progress,route_distance_miles,max_range_miles=500,mpg=10,start_fuel_percent=100,fuel_step_miles=10,start_price_per_gallon=None,safety_buffer_gallons=0):
 
         """
         Optimized fuel planar using Djikstra over fuel states
@@ -35,6 +35,7 @@ class FuelOptimizer:
 
         unit_gallons=fuel_step_miles/mpg
         capacity_units=math.ceil(max_range_miles/fuel_step_miles)
+        reserve_units = math.ceil(safety_buffer_gallons / unit_gallons)
 
         start_fuel_miles=max_range_miles * (start_fuel_percent/100)
 
@@ -49,7 +50,9 @@ class FuelOptimizer:
         if not nodes:
             raise ValueError("No route Nodes found for optimization")
         
-
+        if safety_buffer_gallons >= tank_capacity_gallons:
+            raise ValueError("Safety buffer gallons must be less than tank capacity.")
+        
         destination_index=len(nodes)-1
 
         start_state=(0,start_fuel_units)
@@ -119,7 +122,7 @@ class FuelOptimizer:
 
                 needed_units=math.ceil(distance_to_next/fuel_step_miles)
 
-                if needed_units <= current_fuel_units:
+                if current_fuel_units - needed_units >= reserve_units:
                     next_fuel_units=current_fuel_units - needed_units
                     next_state= (next_node_index,next_fuel_units)
 

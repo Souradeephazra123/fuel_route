@@ -113,6 +113,8 @@ def optimize_fuel_plan(request):
     fuel_step_miles = data["fuel_step_miles"]
     start_price_per_gallon = data["start_price_per_gallon"]
 
+    safety_buffer_gallons = data["safety_buffer_gallons"]
+
     fuel_optimizer=FuelOptimizer()
 
     try:
@@ -139,7 +141,8 @@ def optimize_fuel_plan(request):
             mpg=mpg,
             start_fuel_percent=start_fuel_percent,
             fuel_step_miles=fuel_step_miles,
-            start_price_per_gallon=start_price_per_gallon
+            start_price_per_gallon=start_price_per_gallon,
+            safety_buffer_gallons=safety_buffer_gallons,
         )
 
         total_gallons_consumed=route_distance_miles/mpg
@@ -154,6 +157,7 @@ def optimize_fuel_plan(request):
                 "max_range_miles": max_range_miles,
                 "mpg": mpg,
                 "tank_capacity_gallons": optimized_plan["tank_capacity_gallons"],
+                "safety_buffer_gallons": safety_buffer_gallons,
                 "start_fuel_percent": start_fuel_percent,
             },
             "candidate_station_count": len(station_with_progress),

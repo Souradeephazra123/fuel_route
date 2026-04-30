@@ -157,13 +157,35 @@ If this were to be expanded into a production-level enterprise service:
    pip install -r requirements.txt
    ```
 
-3. **Run database migrations & load data:**
+3. **Configure Environment Variables & Database:**
+   Inside the config/ folder, create a new file named local_settings.py and populate it with your PostgreSQL credentials and your OpenRouteService API key.
+(You can sign up for a free ORS API key athttps://account.heigit.org/manage/key)
+
+config/local_settings.py
+
+   ```bash
+   DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'your_db_name',
+        'USER': 'your_db_user',
+        'PASSWORD': 'your_db_password',
+        'HOST': 'localhost',
+        'PORT': '5432',
+        }
+    }
+
+    ORS_API_KEY = "Enter your key here"
+   ```
+
+
+5. **Run database migrations & load data:**
    ```bash
    python manage.py migrate
    python manage.py import_fuel_price  
    ```
 
-4. **Start the development server:**
+6. **Start the development server:**
    ```bash
    python manage.py runserver
    ```

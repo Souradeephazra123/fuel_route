@@ -20,41 +20,78 @@ def get_station_near_route(route_geometry, threshold_miles=10, sample_rate=100):
         A station is considered near the route if it is within this distance
         from at least one sampled route point.
 
-    sample_rate:
-        To improve performance, we do not check every route point.
-        We check every Nth point.
+        sample_rate:
+            To improve performance, we do not check every route point.
+            We check every Nth point.
+
+            
+        Newer Optimized Logic with KD-tree:
+
+        Faster near-route station search using KD-tree.
+
+        Logic:
+        1. Load all stations
+        2. Build KD-tree on station coordinates
+        3. Sample route points
+        4. For each sampled route point, find all nearby stations within radius
+        5. Return unique matched stations
     """
 
-    all_stations = FuelStation.objects.all()
+    if not route_geometry:
+            return []
 
-    candidate_stations = []
+    all_stations = list(FuelStation.objects.all())
 
-    added_station_ids = set()
+    if not all_stations:
+            return []
+        
+    station_points = [(station.latitude, station.longitude) for station in all_stations]
 
-    sampled_points = route_geometry[::sample_rate]
+    station_tree = cKDTree(station_points)
+
+        # sampled_points=route_geometry[::sample_rate]
+
+        # candidate_stations = []
+
+        # added_station_ids = set()
+# 
+    sampled_points=route_geometry[::sample_rate]
 
     if route_geometry and route_geometry[-1] not in sampled_points:
         sampled_points.append(route_geometry[-1])
 
-    for station in all_stations:
+        #approaximate miles into degrees for KD-tree radius search
+        radius_degrees = threshold_miles / 69.0
 
-        for index, points in enumerate(sampled_points):
+        matched_station_indices = set()
 
-            point_lon = points[0]
-            point_lat = points[1]
+        for point in sampled_points:
+            point_lon, point_lat = point
 
-            distance = haversine_distance(
-                point_lat, point_lon, station.latitude, station.longitude
-            )
+            nearby_indices = station_tree.query_ball_point([point_lat, point_lon], r=radius_degrees)
 
-            if distance <= threshold_miles:
+            matched_station_indices.update(nearby_indices)
 
-                if station.station_id not in added_station_ids:
-                    candidate_stations.append(station)
-                    added_station_ids.add(station.station_id)
-                break
+        candidate_stations=[all_stations[i] for i in matched_station_indices]
 
-    return candidate_stations
+        # for station in all_stations:
+            
+        #     for index, points in enumerate(sampled_points):
+                
+        #         point_lon=points[0]
+        #         point_lat=points[1]
+
+        #         distance=haversine_distance(point_lat, point_lon, station.latitude, station.longitude)
+               
+        #         if distance <= threshold_miles:
+                  
+        #             if station.station_id not in added_station_ids:
+        #                 candidate_stations.append(station)
+        #                 added_station_ids.add(station.station_id)
+        #             break
+
+          
+        return candidate_stations
 
 
 @timeit("calculate_cumulative_distances")
